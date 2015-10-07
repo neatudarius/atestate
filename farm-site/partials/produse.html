@@ -1,0 +1,72 @@
+<div class="container">
+    <div class="page-header">
+        <h1 class="text-center">Produse</h1>
+    </div>
+    <!-- Example row of columns -->
+    <div class="row row-fluid">
+        <div ng-repeat="(id, product) in product_list">
+
+            <div class="col-md-4" id="{{id}}">
+                <h2>{{product.name | capitalize }}</h2>
+                <p>{{product.description | excerpt}}...</p>
+                <img ng-src="img/products/{{product.image}}" class="thumbnail" style="max-height: 150px; max-width: 150px; width:auto; height:auto;"/>
+
+                <a class="btn btn-default" role="button" ng-click="openInfo(id+1);">
+                    Detalii &raquo;
+                </a>
+            </div>
+
+            <div class="clearfix visible-xs-block" ng-if="(id+1) % 3 == 0"></div>
+
+            <div class="row" ng-if="(id+1) % 3 == 0">
+                <div class="col-md-12 collapse" id="info{{id+1}}">
+                    <br />
+                    <div class="well text-left" style="min-height: 200px;">
+
+
+                        <table style="width:100%">
+                            <tr>
+                                <td style="width:450px"><img ng-src="img/products/{{current_product.image}}" class="thumbnail" style="width:100%;height:auto;"/></td>
+                                <td valign="top" style="padding-left:20px">
+                                    <h2 class = "text-center"><strong>{{current_product.name | capitalize }}</strong></h2><br />
+                                    <strong>Descriere produs: </strong><br/>
+                                    {{current_product.description}} <br/><br/>
+                                    <strong>Preț:</strong> <br/>
+                                    <strong style="color: green">{{current_product.price}}</strong> RON </strong> <br/>
+                                    <strong>Contact:</strong><br/>
+                                    {{contact_info.phone_number}}<br/>
+
+                                </td>
+                            </tr>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" ng-if="(product_list.length) % 3 != 0">
+            <div class="col-md-12 collapse" id="info{{product_list.length | divthree}}">
+                <br />
+                <div class="well" style="min-height: 200px;">
+                    <table style="width:100%">
+                        <tr>
+                            <td style="width:450px;"><img ng-src="img/products/{{current_product.image}}" class="thumbnail" style="width:100%;height:auto; overflow:hidden;"/></td>
+                            <td valign="top" style="padding-left:20px">
+                                <h2 class = "text-center"><strong>{{current_product.name | capitalize }}</strong></h2><br />
+                                <strong>Descriere produs: </strong><br/>
+                                {{current_product.description}} <br/><br/>
+                                <strong>Preț:</strong> <br/>
+                                <strong style="color: green">{{current_product.price}}</strong> RON </strong> <br/>
+                                <strong>Contact:</strong><br/>
+                                {{contact_info.phone_number}}<br/>
+
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

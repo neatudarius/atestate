@@ -125,11 +125,12 @@ Database.factory('Database', function() {
 
     Database.get_contact_info = function() {
         var contact_info = {
-            "first_name": "Stefania Alina",
-            "last_name": " TO DO",
+            "first_name": "Ștefania Alina",
+            "last_name": "Brașoveanu",
             "phone_number": "0764527716",
             "availability": "24/7",
-            "availability_big": "24 de ore pe zi, 7 zile pe săptămână"
+            "availability_big": "24 de ore pe zi, 7 zile pe săptămână",
+            "email" : "TO DO"
         };
 
         return contact_info;

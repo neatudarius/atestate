@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f629c759-f0bc-422f-b8b7-843d5732f9cd" name="Default" comment="" />
+    <list default="true" id="f629c759-f0bc-422f-b8b7-843d5732f9cd" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\home\ferma-de-porci-Avrig-Sibiu-info472.JPG" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Ardei copti.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Castraveti murati in saramura.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Gogonele murate.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Muschi vita.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Sfert anterior cu gusă.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\Sfert anterior fara fleica.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\bulion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\bulioncurosiikapia.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\carcasa de porc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\carne de porc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\carne de vita (carcasa).jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\castraveti murati.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\gogosari murati.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\porc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\porc2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\pulpa de porc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\salata de vinete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\sorici.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\vinete la borcan pentru iarna.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\vita.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\zacuscadevinete.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\products\zacuscadevinete.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\ardei.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\bulion.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\carcasa.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\carcase.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\carne_article-main-image.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\castraveti.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\gaina.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\gogosari.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\house.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\iarba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\muschi.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\porc.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\pui taiat.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\pui-de-o-zi.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\rata.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\vaca21-original.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\vaca21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\vinete.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\img\tmp\zacuscadevinete.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\partials\despre.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\partials\produse.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/img/acasa.jpg" afterPath="$PROJECT_DIR$/istoria-tenisului/img/acasa.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/img/acasa.psd" afterPath="$PROJECT_DIR$/istoria-tenisului/img/acasa.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/img/banner.jpg" afterPath="$PROJECT_DIR$/istoria-tenisului/img/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/img/ico.png" afterPath="$PROJECT_DIR$/istoria-tenisului/img/ico.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/partials/contact.html" afterPath="$PROJECT_DIR$/istoria-tenisului/partials/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/js/controller.js" afterPath="$PROJECT_DIR$/istoria-tenisului/js/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/js/database.js" afterPath="$PROJECT_DIR$/istoria-tenisului/js/database.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/index.html" afterPath="$PROJECT_DIR$/istoria-tenisului/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/farm-site/js/route.js" afterPath="$PROJECT_DIR$/farm-site/js/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/js/route.js" afterPath="$PROJECT_DIR$/istoria-tenisului/js/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" afterPath="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\acasa.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/acasa.html" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\contact.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/contact.html" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\despre.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/despre.html" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\planuri-de-viitor.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/planuri-de-viitor.html" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\produse.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/produse.html" />
+      <change type="MOVED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\specialitatea-casei.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/img/partials/specialitatea-casei.html" />
+    </list>
     <ignored path="atestate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -45,11 +108,21 @@
       <list>
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/specialitatea-casei.html" />
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/js/database.js" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/planuri-de-viitor.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/index.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/contact.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/js/controller.js" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/js/database.js" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/istorie.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/despre.html" />
+        <option value="$PROJECT_DIR$/farm-site/js/route.js" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/index.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/js/route.js" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/clasamente.html" />
       </list>
     </option>
   </component>
@@ -86,7 +159,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -105,8 +177,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="istoria-tenisului" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="istoria-tenisului" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="istoria-tenisului" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="istoria-tenisului" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,13 +256,23 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\atestate\mancare-sanatoasa\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/farm-site/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/mancare-sanatoasa/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-tenisului/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -151,14 +302,16 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -181,24 +334,45 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3511811" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -221,6 +395,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="622" max-vertical-offset="1411">
+          <caret line="64" column="75" selection-start-line="64" selection-start-column="75" selection-end-line="64" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5" max-vertical-offset="731">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farm-site/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="476">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="809" max-vertical-offset="1428">
@@ -229,27 +435,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/acasa.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="714">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/despre.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -257,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2635">
           <caret line="132" column="48" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -275,49 +477,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/route.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7841845" vertical-offset="0" max-vertical-offset="714">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/produse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.62852114" vertical-offset="357" max-vertical-offset="1309">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2635">
-          <caret line="132" column="48" selection-start-line="132" selection-start-column="48" selection-end-line="132" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/despre.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="581">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.568662" vertical-offset="51" max-vertical-offset="714">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/acasa.html">
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -333,6 +510,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1224">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18945634" vertical-offset="55" max-vertical-offset="663">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/img/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5614679" vertical-offset="51" max-vertical-offset="714">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34175083" vertical-offset="2041" max-vertical-offset="2635">
+          <caret line="132" column="47" selection-start-line="132" selection-start-column="12" selection-end-line="132" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44810542" vertical-offset="0" max-vertical-offset="607">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="629">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/farm-site/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40201005" vertical-offset="78" max-vertical-offset="476">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="714">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/nastase.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/legende.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.307693" vertical-offset="97" max-vertical-offset="952">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5189505" vertical-offset="640" max-vertical-offset="8194">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="112030">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/clasamente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29565218" vertical-offset="0" max-vertical-offset="345">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/istorie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.90724635" vertical-offset="180" max-vertical-offset="833">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6115942" vertical-offset="843" max-vertical-offset="1547">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding />
         </state>
       </provider>

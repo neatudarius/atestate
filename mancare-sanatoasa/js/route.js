@@ -8,10 +8,7 @@ farmApp.config( function( $routeProvider, $locationProvider ) {
         templateUrl: 'partials/acasa.html'
     });
 
-    $routeProvider.when('/produse', {
-        templateUrl: 'partials/produse.html'
-    });
-	
+
     $routeProvider.when('/contact', {
         templateUrl: 'partials/contact.html'
     });

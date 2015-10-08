@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <title>{{site_info.name}}</title>
+        <title>Istoria tenisului</title>
         <link rel="shortcut icon" href="img/ico.png" />
 
         <!-- Bootstrap core CSS -->
@@ -50,12 +50,29 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li ng-class="{active: current_page()=='produse'}">
-                            <a href="#produse">Produse</a>
+
+
+
+                        <li ng-class="{active: current_page()=='istorie'}">
+                            <a href="#istorie">Istorie</a>
                         </li>
+
+                        <li ng-class="{active: current_page()==nastase'}">
+                            <a href="#nastase">Ilie Năstase</a>
+                        </li>
+
+                        <li ng-class="{active: current_page()=='legende'}">
+                            <a href="#legende">Legende</a>
+                        </li>
+
+                        <li ng-class="{active: current_page()=='clasamente'}">
+                            <a href="#clasamente">Clasamente</a>
+                        </li>
+
                         <li ng-class="{active: current_page()=='contact'}">
                             <a href="#contact">Contact</a>
                         </li>
+
                     </ul>
 
                 </div><!-- /.navbar-collapse -->

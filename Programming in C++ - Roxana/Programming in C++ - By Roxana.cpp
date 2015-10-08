@@ -1,5 +1,5 @@
-//  Gigel is programming in C++
-//  By Neatu Darius Florentin Company (TM)
+//  Programming in C++
+//  By Roxana Florentina Soare
 
 //Header files
 #include <algorithm>
@@ -12,8 +12,6 @@
 #include <cstdlib>
 #include <cstring>
 #include <ctime>
-#define f cin
-#define g cout
 #define ScreenBuffer 108
 #define Terminated 1
 #define Restarted 1
@@ -59,10 +57,10 @@ inline void Menu()
     printf("    7 - pentru DIRECTIVUL <algorithm>\n");
     printf("    8 - pentru PROBLEME\n");
     printf("    9 - pentru GRAFURI\n");
-    printf("   10 - pentru a-l lasa balta pe cel mai bun prieten al tau!\n");
+    printf("   10 - pentru a incheia programul!\n");
     printf("\n\n");
     int option;
-    do{g<<"option = ";f>>option;}while(option<1 || option>10);
+    do{cout<<"option = ";cin>>option;}while(option<1 || option>10);
     switch(option)
     {
         case 1: cHistory();
@@ -96,7 +94,7 @@ inline void WhaitUntilCommandIsPrompt()
     printf("Apasati 1 - pentru a restarta programul.\n");
     printf("Apasati 2 - pentru a inchide programul.\n");
     int option;
-    do{g<<"option = "; f>>option;}while(option<0 || option>2);
+    do{cout<<"option = "; cin>>option;}while(option<0 || option>2);
     switch(option)
     {
         case 0: ClearScreen();
@@ -127,8 +125,8 @@ inline void ShowSomeString(const string &someString)
                 else for( j; someString[j]!=' ';--j);
             for(int k=i;k<=j;++k)
                 if(someString[k]=='\n'){j=k;break;}
-            for(;i<j;++i)g<<someString[i];
-            g<<"\n";
+            for(;i<j;++i)cout<<someString[i];
+            cout<<"\n";
         }
 }
 
@@ -148,20 +146,20 @@ inline void ShowTheTime()
     minutes=(howLong-hours*3600)/60;
     seconds=howLong-hours*3600-minutes*60;
     miliseconds=(howLong-hours*3600-minutes*60-seconds)*1000;
-    g<<"\n\n\n\n\n";
-    g<<"            Gigel ti-a tinut companie exact ";
+    cout<<"\n\n\n\n\n";
+    cout<<"            Programul a durat exact ";
     if(hours)
-        if(hours!=1)g<<hours<< " ore ";
-            else g<<hours<< " ora ";
+        if(hours!=1)cout<<hours<< " ore ";
+            else cout<<hours<< " ora ";
     if(minutes)
-        if(minutes!=1)g<<minutes<< " minute ";
-            else g<<minutes<< " minut ";
+        if(minutes!=1)cout<<minutes<< " minute ";
+            else cout<<minutes<< " minut ";
     if(seconds)
-        if(seconds!=1)g<<seconds<< " secunde ";
-            else g<<seconds<< " secunda ";
+        if(seconds!=1)cout<<seconds<< " secunde ";
+            else cout<<seconds<< " secunda ";
     if(miliseconds)
-        if(miliseconds!=1)g<<miliseconds<< " milisecunde!!!\n\n\n";
-            else g<<miliseconds<< " milisecunda!!!\n\n\n";
+        if(miliseconds!=1)cout<<miliseconds<< " milisecunde!!!\n\n\n";
+            else cout<<miliseconds<< " milisecunda!!!\n\n\n";
     Trademark();
     WhaitForSomePeriod(BeerBreak);
 }
@@ -186,12 +184,12 @@ inline void GraphMenu()
     printf("    5 - pentru a afisa graful sub forma listelor de adiacenta\n");
     printf("    6 - pentru a afisa componentele conexe ale grafului\n");
     printf("    7 - pentru a sterge graful si a construi altul\n");
-    printf("    8 - pentru a lua graful lui Gigel ca si cum ai lua jucaria unui copil\n");
+    printf("    8 - pentru a reveni la meniul anterior\n");
     Trademark();
     while(1)
     {
         int option;
-        do{g<<"\n     option =";f>>option;}while(option<1 || option>8);
+        do{cout<<"\n     option =";cin>>option;}while(option<1 || option>8);
         printf("\n     Ai ales optiunea %d\n",option);
         switch(option)
         {
@@ -208,9 +206,9 @@ inline void GraphMenu()
             case 6: DepthFirstSearch();
                     break;
             case 7: DeleteGraph();
-                    printf("Gigel asteapta cu nerabdare noul graf\n");
+                    printf("Asteapt cu nerabdare noul graf\n");
                     break;
-            case 8: printf("Gigel nu o sa te ierte niciodata pentru asta!\n");
+            case 8: printf("Reset!\n");
                     RestartSystem=Restarted;
                     WhaitForSomePeriod(BeerBreak);
                     return;
@@ -267,8 +265,8 @@ inline void DeleteEdge()
 {
     int x,y;
     printf("Dati cele doua noduri \n");
-    do{g<<"nod1= ";f>>x;}while(x<1 || x>N);
-    do{g<<"nod2= ";f>>y;}while(y<1 || y>N);
+    do{cout<<"nod1= ";cin>>x;}while(x<1 || x>N);
+    do{cout<<"nod2= ";cin>>y;}while(y<1 || y>N);
     if(x==y){printf("NU exista muchii de forma x--x !\n");return;}
     if(Graph[x][y])
     {
@@ -282,8 +280,8 @@ inline void AddEdge()
 {
     int x,y;
     printf("Dati cele doua noduri\n");
-    do{g<<"nod1= ";f>>x;}while(x<1 || x>N);
-    do{g<<"nod2= ";f>>y;}while(y<1 || y>N);
+    do{cout<<"nod1= ";cin>>x;}while(x<1 || x>N);
+    do{cout<<"nod2= ";cin>>y;}while(y<1 || y>N);
     if(x==y)
     {
         printf("NU poti duce muchie de la un nod la el insusi! Operatie neefectuata!\n");
@@ -300,20 +298,20 @@ inline void AddEdge()
 inline void BuildGraph()
 {
     memset(Graph,0,sizeof(Graph));
-    printf("Dati numarul de noduri (N) si numarul de muchii (M). Atentie Gigel doreste macar 4 noduri si 3 muchii!\n");
-    do{g<<"N= ";f>>N;}while(N<4);
-    do{g<<"M= ";f>>M;}while(M<3);
-    printf("Dati cele M perechi distincte de noduri intre care se duc muchii, pentru ca Gigel sa-si faca un graf\n");
+    printf("Dati numarul de noduri (N) si numarul de muchii (M). Dati macar 4 noduri si 3 muchii!\n");
+    do{cout<<"N= ";cin>>N;}while(N<4);
+    do{cout<<"M= ";cin>>M;}while(M<3);
+    printf("Dati cele M perechi distincte de noduri intre care se duc muchii, pentru a face un graf\n");
     for(int i=1;i<=M;++i)
     {
         int x,y;
         printf("\n Muchia %d\n",i);
         do
         {
-            do{g<<"nod1= ";f>>x;}while(x<1 || x>N);
-            do{g<<"nod2= ";f>>y;}while(y<1 || y>N);
+            do{cout<<"nod1= ";cin>>x;}while(x<1 || x>N);
+            do{cout<<"nod2= ";cin>>y;}while(y<1 || y>N);
             if(x==y)
-                printf("NU poti duce muchie de la un nod la el insusi! Operatie neefectuata! Gigel asteapta valori corecte!\n");
+                printf("NU poti duce muchie de la un nod la el insusi! Operatie neefectuata! Programul asteapta valori corecte!\n");
             if(Graph[x][y])
                 printf("Muchia [ %d - %d ] deja exista!\n",x,y);
 
@@ -337,7 +335,7 @@ inline void ProblemSet()
     printf("        3 - Trimite-l pe Gigel inapoi in Meniu!\n");
     Trademark();
     int option;
-    do{g<<"option =";f>>option;}while(option<1 || option>3);
+    do{cout<<"option =";cin>>option;}while(option<1 || option>3);
     switch(option)
     {
         case 1: Ausoara();
@@ -368,7 +366,7 @@ inline void PeluzaSud()
     ShowSomeString(someString);
     someString="\n \n                 Dupa doar 10 000 de iteratii se gaseste ca cel mai mare numar Y pentru care avei 30 de numere compuse consecutive incepand cu el este Y=999999999990000. Astfel daca X<Y atunci indiferent de valoarea lui N raspunsul este Y, iar daca X>=Y atunci in mod cert N<30 si atunci vom proceda analog sa gasim pe Y'.\n ";
     ShowSomeString(someString);
-    printf("\n\n                  Iata o sursa demonstrativa\n\n \n                 int main() \n { \n    f>>N>>X; \n    if(X<Y)g<<Y<<'\\n'; \n     else \n\n    {  \n        unsigned long long nr=0,sol=Y+10000,Max=Y+10000; \n    for(unsigned long long i=Y+10000;i>X;--i) \n     {  \n              if(!isPrime(i))++nr; \n             else \n             { \n                 if(nr>Max) \n                  { \n                      Max=nr; \n                     sol=i+1; \n                  } \n                  nr=0; \n              } \n          } \n        g<<sol<<'\\n'; \n    } \n");
+    printf("\n\n                  Iata o sursa demonstrativa\n\n \n                 int main() \n { \n    cin>>N>>X; \n    if(X<Y)cout<<Y<<'\\n'; \n     else \n\n    {  \n        unsigned long long nr=0,sol=Y+10000,Max=Y+10000; \n    for(unsigned long long i=Y+10000;i>X;--i) \n     {  \n              if(!isPrime(i))++nr; \n             else \n             { \n                 if(nr>Max) \n                  { \n                      Max=nr; \n                     sol=i+1; \n                  } \n                  nr=0; \n              } \n          } \n        cout<<sol<<'\\n'; \n    } \n");
     someString="                      Pentru a stii daca mai sunt bilete pentru tine si pentru cei N-1 prieteni ai tai, introdu numarul prietenilor si numarul X care va confera siguranta, sa va spunem daca mai sunt bilete pentru voi!\n ";
     ShowSomeString(someString);
     printf("\n\n\n");
@@ -376,7 +374,7 @@ inline void PeluzaSud()
     printf("1 - pentru ca Gigel sa va gaseasca locuri pe National Arena\n");
     printf("2 - daca sunteti un dinamovist, si evident va este greu sa mergeti la meciuri din UCL ale echipei FC STEAUA BUCURESTI\n");
     int option;
-    do{g<<"option =";f>>option;}while(option<1 || option>2);
+    do{cout<<"option =";cin>>option;}while(option<1 || option>2);
     if(option==2)
     {
         printf("Recomandam romanul SF <Dinamo in Uefa Champions League>\n");
@@ -384,7 +382,7 @@ inline void PeluzaSud()
         return;
     }
     int N; long long X;
-    do{g<<"N= ";f>>N; g<<"X= "; f>>X;}while(N<1 || X<1);
+    do{cout<<"N= ";cin>>N; cout<<"X= "; cin>>X;}while(N<1 || X<1);
     long long Y=999999999990000;
     if(X>=Y)
     {
@@ -417,14 +415,14 @@ inline void Ausoara()
     ShowSomeString(someString);
     someString="            Evident ca Gigel va sare in ajutor. Bucuros ca a luat interviul el va spune cum a rezolvat problema : solutia este data de interclasarea celor N siruri , solutie optima ce are o complexitate O(N). De asemenea, el va recomanda sa folositi functia set_intersection() din STL deoarece a constatat el ca este optima. \n";
     ShowSomeString(someString);
-    someString="            De asemenea el va ofera chiar codul sursa scris la interviu. \n f>>n; \n vector < int > sol; \n for (int i=0; i<n; i++) \n { \n f>>nr; \n vector < int > v(nr); \n vector < int > aux(nr); \n for (int j=0; j<nr; j++) f>>v[j]; \n if (i==0) sol=v; \n set_intersection(sol.begin(), sol.end(), v.begin(), v.end(), aux.begin()); \n swap(sol, aux); \n } \n int rez=sol.size()-1; \n while (sol[rez]==0) --rez; \n g<<rez+1<<' '; \n for (int i=0; i<=rez; i++) \n g<<sol[i]<<' '; \n";
+    someString="            De asemenea el va ofera chiar codul sursa scris la interviu. \n cin>>n; \n vector < int > sol; \n for (int i=0; i<n; i++) \n { \n cin>>nr; \n vector < int > v(nr); \n vector < int > aux(nr); \n for (int j=0; j<nr; j++) cin>>v[j]; \n if (i==0) sol=v; \n set_intersection(sol.begin(), sol.end(), v.begin(), v.end(), aux.begin()); \n swap(sol, aux); \n } \n int rez=sol.size()-1; \n while (sol[rez]==0) --rez; \n cout<<rez+1<<' '; \n for (int i=0; i<=rez; i++) \n cout<<sol[i]<<' '; \n";
     ShowSomeString(someString);
     printf("\n\n\n");
     printf("    Vreti sa verificati daca codul lui e bun? \n");
     printf("1 - pentru a va demonstra ca Gigel nu a intrat pe pile la  Darius Corporation (TM)\n");
     printf("2 - daca sunteti convins ca Gigel a dat spaga si vreti sa va intoarceti in Meniu\n");
     int option;
-    do{g<<"option =";f>>option;}while(option<1 || option>2);
+    do{cout<<"option =";cin>>option;}while(option<1 || option>2);
     if(option==2)
     {
         printf("Gigel va merge la DNA si apoi la inchisoare , unde va fi coleg de celula cu Adrian Nastase\n");
@@ -432,23 +430,23 @@ inline void Ausoara()
         return;
     }
     int N;
-    do{g<<"Cate siruri vreti? N= ";f>>N;}while(N<1);
+    do{cout<<"Cate siruri vreti? N= ";cin>>N;}while(N<1);
     vector < int > sol;
     for (int i=0; i<N;++i)
     {
         printf("Dati sirul cu numarul %d \n",i+1);
         int M=0;
-        do{g<<"M= ";f>>M;}while(M<1);
+        do{cout<<"M= ";cin>>M;}while(M<1);
         vector < int > v(M),aux(M);
-        for (int j=0;j<M;++j) {g<<"urmatorul element este= ";f>>v[j];}
+        for (int j=0;j<M;++j) {cout<<"urmatorul element este= ";cin>>v[j];}
         if (i==0) sol=v;
         set_intersection(sol.begin(), sol.end(), v.begin(), v.end(), aux.begin());
         swap(sol, aux);
     }
     int rez=sol.size()-1;
     while (sol[rez]==0)--rez;
-    g<<rez+1<<"\n";
-    for (int i=0;i<=rez;++i) g<<sol[i]<<" "; g<<"\n";
+    cout<<rez+1<<"\n";
+    for (int i=0;i<=rez;++i) cout<<sol[i]<<" "; cout<<"\n";
     WhaitUntilCommandIsPrompt();
 }
 
@@ -462,7 +460,7 @@ inline void Algorithm()
     ShowSomeString(someString);
     someString="         Voi arata care sunt cele mai utile si cunoscute functii\n";
     ShowSomeString(someString);
-    someString="\n              * functiile min/max  - numele sunt sugestive ; ex. int x=min(2,3); \n              *functia swap - care de asemenea primeste doi parametri, carora le interschimba valoarea \n int x=2,y=3; \n swap(x,y);  \n va rezulta x=3,y=2\n              *functia __gcd (great commun divisor)\n ex. int x=__gcd(30,36);  // x=6\n              *functia sort care ordoneaza implicit crescator un vector alocat static sau cu vector STL primind ca parametrii vectorul de sortat si pozitiile intre care se doreste sortarea\nint v[Nmax];\nf>>N;\nfor(int i=1;i<=N;++i)f>>v[i];\nsort(v+1,v+1+N);\nfor(int i=1;i<=N;++i)g<<v[i]<<'  ';'\nsau cu vector alocat cu STL\nvector < int >v;\nf>>N;\nfor(int i=1;i<=N;++i) \n{ int x;\nf>>x;\nv.push_back(x);\n}\nsort(v.begin(),v.end());for(int i=0;i<N;++i)g<<v[i]<<'  '; \n              *functia next_permutation () - are aceeasi parametrii ca si sort. realizeaza urmatoare permutare a sirului in ordine lexico grafica si returneaza false daca permutarea obtinuta este ultima, sau true altfel\nEx.Sa se genereze toate permutarile multimii 1,2,...,n\nfor(int i=1;i<=N;++i)v[i]=i;\ndo\n{\n nfor(int i=1;i<=N;++i)g<<v[i]<<'  ';\ng<<endl;\n}\nwhile(next_permutation(v+1,v+1+N));\n\n              *functia prev_permutation - analoaga functiei next_permutation\n              *functia binary_search(left,right,x) - intr-un sir ordinat se cauta aparitia numarului x intre pozitiile left si right, returnand pozitia pe care se afla x daca exista,sau 0 daca x nu se afla in sir\n ";
+    someString="\n              * functiile min/max  - numele sunt sugestive ; ex. int x=min(2,3); \n              *functia swap - care de asemenea primeste doi parametri, carora le interschimba valoarea \n int x=2,y=3; \n swap(x,y);  \n va rezulta x=3,y=2\n              *functia __gcd (great commun divisor)\n ex. int x=__gcd(30,36);  // x=6\n              *functia sort care ordoneaza implicit crescator un vector alocat static sau cu vector STL primind ca parametrii vectorul de sortat si pozitiile intre care se doreste sortarea\nint v[Nmax];\nf>>N;\nfor(int i=1;i<=N;++i)cin>>v[i];\nsort(v+1,v+1+N);\nfor(int i=1;i<=N;++i)cout<<v[i]<<'  ';'\nsau cu vector alocat cu STL\nvector < int >v;\nf>>N;\nfor(int i=1;i<=N;++i) \n{ int x;\nf>>x;\nv.push_back(x);\n}\nsort(v.begin(),v.end());for(int i=0;i<N;++i)cout<<v[i]<<'  '; \n              *functia next_permutation () - are aceeasi parametrii ca si sort. realizeaza urmatoare permutare a sirului in ordine lexico grafica si returneaza false daca permutarea obtinuta este ultima, sau true altfel\nEx.Sa se genereze toate permutarile multimii 1,2,...,n\nfor(int i=1;i<=N;++i)v[i]=i;\ndo\n{\n nfor(int i=1;i<=N;++i)cout<<v[i]<<'  ';\ng<<endl;\n}\nwhile(next_permutation(v+1,v+1+N));\n\n              *functia prev_permutation - analoaga functiei next_permutation\n              *functia binary_search(left,right,x) - intr-un sir ordinat se cauta aparitia numarului x intre pozitiile left si right, returnand pozitia pe care se afla x daca exista,sau 0 daca x nu se afla in sir\n ";
     ShowSomeString(someString);
     Trademark();
     WhaitUntilCommandIsPrompt();
@@ -477,22 +475,33 @@ inline void Vector()
     someString="\n           *Elementele acestei biblioteci sunt containere-secvente care reprezinta un tablouri unidimensionale ce isi pot schimba capacitatea. \n           *Un vector din STL are elementele indexate de la 0 ! \n           *Este retinut faptul ca tipul elementelor poate fi oricare tip predefinit sau definit de utilizator. \n           *Alocarea numarului de elemente , se face dupa puterile lui 2. Astfel daca noi dorim alocarea a N pozitii in vector, compilatorul va aloca cea mai mica putere 2^k mai mare decat N. Exemplu: \n            vector < int > v; // am creat un tablou unidimensional v, cu elemente de tip int.\n           *Se poate adauga elemente doar la coada vectorului , folosind functia membra push_back(element); de asemenea se poate sterge doar ultimul element adauga , folosind functia pop_back().\n           *Alte functii membre utile sunt : \n           * clear()-sterge toate elementele adaugate in vector si elibereaza memoria rezervata de acesta \n           * size()-returneaza numarul de elemente adaugate in vector; \n           * capacity()-returneaza numarul de pozitii alocate in memorie de vectorului\n           *\n           *begin()-returneaza un iterator catre primul element din vector\n           *end()-returneaza un iterator catre ultimul element din vector\n";
     ShowSomeString(someString);
     Trademark();
-    g<<"\n\n\n\n";
+    cout<<"\n\n\n\n";
     someString="             Doriti o exemplificare? Introduceti raspunsul 1 pentru a continua sau 0 pentru a reveni la meniul anterior  ";
     ShowSomeString(someString);
     string answer;
-    do{g<<"option= "; f>>answer;}while(answer!="1" && answer!="0");
-    if(answer=="0")return;
+    do{
+            cout<<"option= ";
+            cin>>answer;
+    }while(answer!="1" && answer!="0");
+
+    if(answer=="0")
+        return;
+
     someString="             Pentru exemplificare vom construi un vector. Introduceti un numar natural N nenul apoi N numere intregi. ";
     ShowSomeString(someString);
+
     int N;
-    do{f>>N;}while(N<1);
+    do{
+      cin>>N;
+    }  while(N<1);
     printf("    Ati introdus valoarea %d\n",N);
     printf("    Introduceti pe rand elementele vectorului vector < int > v ; \n");
     vector < int > v;
     for(int i=0;i<N;++i)
     {
-        int x; g<<"  x= ";f>>x;
+        int x;
+        cout<<"  x= ";
+        cin>>x;
         v.push_back(x);
         printf("    A avut loc operatia v.push_back(%d)\n",x);
     }
@@ -585,7 +594,7 @@ inline void cHistory()
     ClearScreen();
     string someString="                                     Limbajul C.  Istorie.  Caracteristici ";
     ShowSomeString(someString);
-    g<<"\n";
+    cout<<"\n";
     someString="        C este un limbaj de programare standardizat, compilat, de nivel mediu. Este implementat pe majoritatea platformelor de calcul existente azi, si este cel mai popular limbaj de programare pentru scrierea de software de sistem. Este apreciat pentru eficienta codului obiect pe care il poate genera, si pentru portabilitatea sa. A fost dezvoltat la inceputul anilor 1970 de Ken Thompson si Dennis Ritchie, care aveau nevoie de un limbaj simplu si portabil pentru scrierea nucleului sistemului de operare UNIX. Sintaxa limbajului C a stat la baza multor limbaje create ulterior si inca populare azi: C++, Java, JavaScript, C#. C este un limbaj de programare relativ minimalist ce opereaza in stransa legatura cu hardware-ul, fiind cel mai apropiat de limbajul de asamblare fata de majoritatea celorlalte limbaje de programare.";
     ShowSomeString(someString);
     someString="        C a fost creat avand drept scop important de a face ca programele mari sa poata fi scrise mai usor si cu mai putine erori in paradigma programarii procedurale, dar fara a pune un obstacole in scrierea compilatorului de C, care este incarcat de caracteristicile complexe ale limbajului. C are urmatoarele caracteristici importante: ";
@@ -604,16 +613,16 @@ inline void ShowHeaderCpp()
 {
     if(ReturnToMainWasPrompted())return;
     ClearScreen();
-    g<<"\n";
-    g<<"    Standardul limbajul C++ defineste 33 de headere.\n\n";
-    g<<"    <algorithm>    <iomanip>    <list>      <queue>       <streambuf>\n";
-    g<<"    <bitset>       <ios>        <locale>    <set>         <string>\n";
-    g<<"    <complex>      <iosfwd>     <map>       <sstream>     <typeinfo>\n";
-    g<<"    <deque>        <iostream>   <memory>    <stack>       <utility>\n";
-    g<<"    <exception>    <istream>    <new>       <stdexcept>   <valarray>\n";
-    g<<"    <fstream>      <iterator>   <numeric>   <strstream>   <vector>\n";
-    g<<"    <functional>   <limits>     <ostream>\n";
-    g<<"\n";
+    cout<<"\n";
+    cout<<"    Standardul limbajul C++ defineste 33 de headere.\n\n";
+    cout<<"    <algorithm>    <iomanip>    <list>      <queue>       <streambuf>\n";
+    cout<<"    <bitset>       <ios>        <locale>    <set>         <string>\n";
+    cout<<"    <complex>      <iosfwd>     <map>       <sstream>     <typeinfo>\n";
+    cout<<"    <deque>        <iostream>   <memory>    <stack>       <utility>\n";
+    cout<<"    <exception>    <istream>    <new>       <stdexcept>   <valarray>\n";
+    cout<<"    <fstream>      <iterator>   <numeric>   <strstream>   <vector>\n";
+    cout<<"    <functional>   <limits>     <ostream>\n";
+    cout<<"\n";
     Trademark();
     WhaitUntilCommandIsPrompt();
 }
@@ -622,13 +631,13 @@ inline void ShowHeaderC()
 {
     if(ReturnToMainWasPrompted())return;
     ClearScreen();
-    g<<"\n";
-    g<<"    Facilitatile Bibliotecii C Standard sunt furnizate de 18 headere aditionale.\n\n";
-    g<<"    <cassert>   <ciso646>   <csetjmp>   <cstdio>  <ctime>\n";
-    g<<"    <cctype>    <climits>   <csignal>   <cstdlib> <cwchar>\n";
-    g<<"    <cerrno>    <clocale>   <cstdarg>   <cstring> <cwctype>\n";
-    g<<"    <cfloat>    <cmath>     <cstddef>\n";
-    g<<"\n";
+    cout<<"\n";
+    cout<<"    Facilitatile Bibliotecii C Standard sunt furnizate de 18 headere aditionale.\n\n";
+    cout<<"    <cassert>   <ciso646>   <csetjmp>   <cstdio>  <ctime>\n";
+    cout<<"    <cctype>    <climits>   <csignal>   <cstdlib> <cwchar>\n";
+    cout<<"    <cerrno>    <clocale>   <cstdarg>   <cstring> <cwctype>\n";
+    cout<<"    <cfloat>    <cmath>     <cstddef>\n";
+    cout<<"\n";
     Trademark();
     WhaitUntilCommandIsPrompt();
 }
@@ -651,5 +660,5 @@ inline void ClearScreen()
 
 inline void Trademark()
 {
-    printf("\n                                                                      By Neatu Darius Florentin Company (TM)\n\n");
+    printf("\n                                                                      By Roxana Florentina Soare\n\n");
 }

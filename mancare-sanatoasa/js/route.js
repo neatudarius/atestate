@@ -8,6 +8,9 @@ farmApp.config( function( $routeProvider, $locationProvider ) {
         templateUrl: 'partials/acasa.html'
     });
 
+    $routeProvider.when('/produse', {
+        templateUrl: 'partials/produse.html'
+    });
 
     $routeProvider.when('/contact', {
         templateUrl: 'partials/contact.html'
@@ -17,13 +20,12 @@ farmApp.config( function( $routeProvider, $locationProvider ) {
         templateUrl: 'partials/despre.html'
     });
 
-
     $routeProvider.when('/specialitatea-casei', {
         templateUrl: 'partials/specialitatea-casei.html'
     });
 
-    $routeProvider.when('/planuri-de-viitor', {
-        templateUrl: 'partials/planuri-de-viitor.html'
+    $routeProvider.when('/comenzi', {
+        templateUrl: 'partials/comenzi.html'
     });
 
     $routeProvider .otherwise({

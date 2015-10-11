@@ -3,10 +3,12 @@ Database.factory('Database', function() {
 
      Database.get_contact_info = function() {
         var contact_info = {
-            "first_name": "Miruna Ioana",
-            "last_name": "Stan",
-            "phone_number": "TO DO",
-            "email" : "TO DO"
+            "student": "Stan Miruna Ioana",
+            "phone_number": "0785878797",
+            "email" : "miruna.stan@yahoo.com",
+            "highschool":"Colegiul National “Anastasescu”",
+            "adress" : "Rosiorii de Vede, jud. Teleorman",
+            "teacher": "Ștefan Cătălina"
         };
 
         return contact_info;

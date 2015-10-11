@@ -18,16 +18,16 @@ farmApp.config( function( $routeProvider, $locationProvider ) {
     });
 
 
-    $routeProvider.when('/legende', {
-        templateUrl: 'partials/.html'
+    $routeProvider.when('/victor-babes', {
+        templateUrl: 'partials/victor-babes.html'
     });
 
-    $routeProvider.when('/clasamente', {
-        templateUrl: 'partials/.html'
+    $routeProvider.when('/medicina-in-prezent', {
+        templateUrl: 'partials/medicina-in-prezent.html'
     });
 
-    $routeProvider.when('/contact', {
-        templateUrl: 'partials/contact.html'
+    $routeProvider.when('/despre', {
+        templateUrl: 'partials/despre.html'
     });
 
     $routeProvider .otherwise({

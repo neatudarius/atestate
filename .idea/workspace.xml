@@ -2,18 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fe2401-4a1e-4a72-bc53-17159e200801" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\istoria-tenisului.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\.gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css" afterPath="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/index.html" afterPath="$PROJECT_DIR$/istoria-tenisului/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" afterPath="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\farm.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\ico.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\adn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\anestezie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\antibiotice.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\clorpromazina.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\computer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\dovada.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\fumat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\germeni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\imunologia.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\lectia.de.anatomie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\pilula.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\proba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\radiografii.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\rehidratare.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\salubritatea.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\timbru.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\vaccinurile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\victor.babes.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular-route.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\app.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\controller.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\database.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\jquery-2.1.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\route.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\log\development.log" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\acasa.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\date-importante.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\despre.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\istorie.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\medicina-in-prezent.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\victor-babes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\0x3HRIUkSuX6MAwAQFGM8s8-S3rBXPCD8fp2pNSjELE.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\2hVhHqQ624vJqnq4zsm9AIRWFHWrUCqV3mHNyyB7fHw.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\327WS8lDysMWzVkeWSbzVIdH3y9O1HvRtWnVuarLJSE.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5B9oIIeYFpqKH5ckkZmOM5XPfpHaGRinzsMiMklaHr8.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5HNoMRd_x0cdoiWg2HMhjKwVhYV9LPFOXS95W0E8QEs.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5Lly_CA8DZvPhQV2jDQx-Y6P_y3Ygra9t5jfSlGhHDA.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\6_w8IWh8LEL_aGITJGhEk8Kf8bVFlNx3yxYPKTTVdFQ.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\7yRsKQBxBsh4ZDpI0Rh3d4MRmBjftlZBnfIHCKOzVPQ.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\APY89OAPJx9A3D3xcCoktvEvQUs7NcWChYXnjjjPzz0.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\BDTPZpxzHpP57AW0OcNroCZMrfU9l-a_0gWEKnoSCPY.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\E676AfhCgecXwzYkk77qlRqylC_NdK59VTw2xTPpg8U.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\FhvCB0BCiM81ywxDzn4TpiQjkLaySok1nkFUvMhMjsQ.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\IFeiibz347Nj1RneuqEkHPLYwOuTZRec985cIa3jGwM.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\LI34xbI7EtZBWqpgZ1PeSZO_VZ6fzoZpi0Rc7R569_k.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\OI6uxGcnsKavdWTtwDAasU3wPx8QXhzBgV0X2n1KjMQ.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Pm3ENYpCrQMOJGd-d8lACN_nbGZWiivq_KyPLJoD9Xk.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\PqGzuaaIp2PdGtimAWbMqbmMNmDdL9SIacPLPsJ4jTY.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Q6jILjZieBBYvWp4mXKp2ArsRMWYoVcrJK3JU1H0aAI.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\QDiquH0ctkkKBZjURPrhKDhsufthD1TGbyr7roJWZxo.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Q_8MYguhJzGHQLDqt09breAZkGWwbSxTiRHQt-jIwn8.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\TNU2NrVZtqWL32n4TvX6q1tK6BkBwzAjutKJAowBQ_0.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\UjDrvirCxoaNOSJOBh0leyiy68naM9rlI_itVUXkefg.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\XTkgHWAA5KLZGmqRFyL7kO7v4zF6vKvMaV37T1NthPQ.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\YvCDgWcwmRRPMbHuioXURHrmbXrprdOkT9n_yiWXI7E.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\cbPsGJIQtCgbP2XkyAbosVEZ2lZOZ7FXiQISU7x9Ni4.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\cz0EWTZgoTGVL8TDk2lTq5MUGVRAQK1GPtmJOqGpqMs.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\hycKZyXeIbEy--8Y8opK94sIohP1EuQY44xnX_IQJao.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\jEAORzQP-DOEHmcMTynjDEoU3Z4ZQPQu_Ggbs7UxMFM.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\mL4hrH_wLPmIfReGpVo3kG2LLE9MYYGcpzAYINCRZ1Y.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\n7M5UxrHaceMDtM-NQWOnmP9Kc79Cbq-w6NNJ-19Fq4.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\omzZZxxhSjs3z19oC6njK94u41bvmhjTXt_dj-SECWo.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\pG1be-SH2w_9uNEF3e5v8GYa30bNRzzlgzqwA-5mYxg.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\qQV-HoX0xIcuQprqYtKCxikDgzfYUaNnb0zOMzWg8V4.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\u_y6KhSam0kU5gWmEyeGDKDQWvj9SQjVEN9GqjgNm5g.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\v63x5svN19JpqF8wJfzTD79qvLTOYPtKuFR9isYbHaY.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\vKSZugGGWqV9RGGlwoIwPnZ2KJ74kw2z0sn9CeZwRXY.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\wkzGWjtpQvPvNuVXMjCr064IE67tJfHkL_vDWagf-Lk.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\y9aAao2wBI3cHgJhLjR7ofz9VsFQR0SEyS73IAjHjmE.cache" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\pids\server.pid" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-medicinei/Istoria medicinei.doc" afterPath="$PROJECT_DIR$/istoria-medicinei/Istoria medicinei.doc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atestate.iws" />
@@ -39,12 +113,123 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
+      <file leaf-file-name="acasa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25589225" vertical-offset="2041" max-vertical-offset="2635">
-              <caret line="129" column="39" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="39" />
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="731">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date-importante.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/date-importante.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2312">
+              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="despre.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="969">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="medicina-in-prezent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.23077" vertical-offset="367" max-vertical-offset="3230">
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="victor-babes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/victor-babes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44894367" vertical-offset="255" max-vertical-offset="1377">
+              <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="89" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="istorie.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="91.26923" vertical-offset="2458" max-vertical-offset="3026">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -64,10 +249,48 @@
       <list>
         <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap-theme.min.css" />
         <option value="$PROJECT_DIR$/istoria-tenisului/css/farm.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/index.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" />
+        <option value="$PROJECT_DIR$/Mancare sanatoasa/mancare-sanatoasa/partials/specialitatea-casei.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/index.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/specialitatea-casei.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html" />
         <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" />
+        <option value="$PROJECT_DIR$/istoria-tenisului/index.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/acasa.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/date-importante.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/istorie.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/victor-babes.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/medicina-in-prezent.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/contact.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/js/route.js" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/index.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/js/database.js" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/partials/despre.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/index.html" />
+        <option value="$PROJECT_DIR$/templates/i_solution_template_2085/index.html" />
+        <option value="$PROJECT_DIR$/test/blog.html" />
+        <option value="$PROJECT_DIR$/test/contact.html" />
+        <option value="$PROJECT_DIR$/test/support.html" />
+        <option value="$PROJECT_DIR$/test/Aviatie=Pasiune!.html" />
+        <option value="$PROJECT_DIR$/test/about.html" />
+        <option value="$PROJECT_DIR$/_medicina/templatemo_style.css" />
+        <option value="$PROJECT_DIR$/_medicina/profile.html" />
+        <option value="$PROJECT_DIR$/_medicina/index.html" />
+        <option value="$PROJECT_DIR$/_medicina/acasa.html" />
+        <option value="$PROJECT_DIR$/_medicina/date-importante.html" />
+        <option value="$PROJECT_DIR$/_medicina/istorie.html" />
+        <option value="$PROJECT_DIR$/_medicina/medicina-in-prezent.html" />
+        <option value="$PROJECT_DIR$/_medicina/victor-babes.html" />
+        <option value="$PROJECT_DIR$/_medicina/despre.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/templatemo_style.css" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/acasa.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/date-importante.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/victor-babes.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/istorie.html" />
+        <option value="$PROJECT_DIR$/istoria-medicinei/despre.html" />
       </list>
     </option>
   </component>
@@ -132,25 +355,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mancare-sanatoasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atestate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atestate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mancare-sanatoasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="istoria-medicinei" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,14 +367,31 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-tenisului/index.html">
+  <component name="RunManager" selected="JavaScript Debug.acasa.html (1)">
+    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/Aviatie=Pasiune!/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/mancare-sanatoasa/index.html">
+    <configuration default="false" name="Aviatie=Pasiune!.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/test/Aviatie=Pasiune!.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/_medicina/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/_medicina/acasa.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="acasa.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-medicinei/acasa.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -192,16 +414,27 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,25 +455,25 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -264,119 +497,247 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/index.html">
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38908452" vertical-offset="0" max-vertical-offset="1428">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="482273">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/angular.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4369">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap-theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.794613" vertical-offset="7600" max-vertical-offset="8194">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap-theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11447811" vertical-offset="0" max-vertical-offset="594">
-          <caret line="4" column="3043" selection-start-line="4" selection-start-column="3043" selection-end-line="4" selection-end-column="3043" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/farm.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4678748" vertical-offset="600" max-vertical-offset="1224">
-          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12014134" vertical-offset="0" max-vertical-offset="566">
-          <caret line="4" column="18318" selection-start-line="4" selection-start-column="18318" selection-end-line="4" selection-end-column="18367" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94276094" vertical-offset="596" max-vertical-offset="112030">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17747" max-vertical-offset="112030">
+          <caret line="1092" column="32" selection-start-line="1092" selection-start-column="32" selection-end-line="1092" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="112030">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/specialitatea-casei.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="1496">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58409786" vertical-offset="166" max-vertical-offset="680">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4285715" vertical-offset="0" max-vertical-offset="170">
+          <caret line="4" column="2738" selection-start-line="4" selection-start-column="2738" selection-end-line="4" selection-end-column="2738" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79814816" vertical-offset="28" max-vertical-offset="1428">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17747" max-vertical-offset="112030">
+          <caret line="1092" column="32" selection-start-line="1092" selection-start-column="32" selection-end-line="1092" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15232974" vertical-offset="0" max-vertical-offset="558">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33278418" vertical-offset="6071" max-vertical-offset="6817">
+          <caret line="369" column="16" selection-start-line="369" selection-start-column="16" selection-end-line="369" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/js/database.js">
+    <entry file="file://$PROJECT_DIR$/templates/i_solution_template_2085/support.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19604613" vertical-offset="0" max-vertical-offset="607">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="39" />
-          <folding />
+        <state vertical-scroll-proportion="0.35915494" vertical-offset="306" max-vertical-offset="2482">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="139" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/legende.html">
+    <entry file="file://$PROJECT_DIR$/templates/i_solution_template_2085/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.089788735" vertical-offset="51" max-vertical-offset="1071">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="-0.47887325" vertical-offset="306" max-vertical-offset="2618">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/support.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29549903" vertical-offset="376" max-vertical-offset="2482">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33268103" vertical-offset="340" max-vertical-offset="2754">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39921722" vertical-offset="51" max-vertical-offset="3128">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2570423" vertical-offset="0" max-vertical-offset="1853">
+          <caret line="42" column="13" selection-start-line="39" selection-start-column="10" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.38908452" vertical-offset="510" max-vertical-offset="1632">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state vertical-scroll-proportion="-13.076923" vertical-offset="612" max-vertical-offset="1547">
+          <caret line="56" column="28" selection-start-line="55" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Aviatie=Pasiune!.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="255" max-vertical-offset="2618">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72817135" vertical-offset="612" max-vertical-offset="5202">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25589225" vertical-offset="2041" max-vertical-offset="2635">
-          <caret line="129" column="39" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="39" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="731">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/date-importante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2312">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="91.26923" vertical-offset="2458" max-vertical-offset="3026">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.23077" vertical-offset="367" max-vertical-offset="3230">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="969">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/victor-babes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44894367" vertical-offset="255" max-vertical-offset="1377">
+          <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

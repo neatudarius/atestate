@@ -2,92 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fe2401-4a1e-4a72-bc53-17159e200801" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\css\farm.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\ico.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\adn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\anestezie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\antibiotice.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\clorpromazina.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\computer.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\dovada.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\fumat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\germeni.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\imunologia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\lectia.de.anatomie.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\pilula.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\proba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\radiografii.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\rehidratare.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\salubritatea.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\timbru.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\vaccinurile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\img\pics\victor.babes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular-route.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\controller.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\database.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\jquery-2.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\js\route.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\log\development.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\acasa.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\date-importante.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\despre.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\istorie.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\medicina-in-prezent.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\partials\victor-babes.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\0x3HRIUkSuX6MAwAQFGM8s8-S3rBXPCD8fp2pNSjELE.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\2hVhHqQ624vJqnq4zsm9AIRWFHWrUCqV3mHNyyB7fHw.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\327WS8lDysMWzVkeWSbzVIdH3y9O1HvRtWnVuarLJSE.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5B9oIIeYFpqKH5ckkZmOM5XPfpHaGRinzsMiMklaHr8.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5HNoMRd_x0cdoiWg2HMhjKwVhYV9LPFOXS95W0E8QEs.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\5Lly_CA8DZvPhQV2jDQx-Y6P_y3Ygra9t5jfSlGhHDA.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\6_w8IWh8LEL_aGITJGhEk8Kf8bVFlNx3yxYPKTTVdFQ.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\7yRsKQBxBsh4ZDpI0Rh3d4MRmBjftlZBnfIHCKOzVPQ.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\APY89OAPJx9A3D3xcCoktvEvQUs7NcWChYXnjjjPzz0.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\BDTPZpxzHpP57AW0OcNroCZMrfU9l-a_0gWEKnoSCPY.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\E676AfhCgecXwzYkk77qlRqylC_NdK59VTw2xTPpg8U.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\FhvCB0BCiM81ywxDzn4TpiQjkLaySok1nkFUvMhMjsQ.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\IFeiibz347Nj1RneuqEkHPLYwOuTZRec985cIa3jGwM.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\LI34xbI7EtZBWqpgZ1PeSZO_VZ6fzoZpi0Rc7R569_k.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\OI6uxGcnsKavdWTtwDAasU3wPx8QXhzBgV0X2n1KjMQ.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Pm3ENYpCrQMOJGd-d8lACN_nbGZWiivq_KyPLJoD9Xk.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\PqGzuaaIp2PdGtimAWbMqbmMNmDdL9SIacPLPsJ4jTY.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Q6jILjZieBBYvWp4mXKp2ArsRMWYoVcrJK3JU1H0aAI.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\QDiquH0ctkkKBZjURPrhKDhsufthD1TGbyr7roJWZxo.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\Q_8MYguhJzGHQLDqt09breAZkGWwbSxTiRHQt-jIwn8.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\TNU2NrVZtqWL32n4TvX6q1tK6BkBwzAjutKJAowBQ_0.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\UjDrvirCxoaNOSJOBh0leyiy68naM9rlI_itVUXkefg.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\XTkgHWAA5KLZGmqRFyL7kO7v4zF6vKvMaV37T1NthPQ.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\YvCDgWcwmRRPMbHuioXURHrmbXrprdOkT9n_yiWXI7E.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\cbPsGJIQtCgbP2XkyAbosVEZ2lZOZ7FXiQISU7x9Ni4.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\cz0EWTZgoTGVL8TDk2lTq5MUGVRAQK1GPtmJOqGpqMs.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\hycKZyXeIbEy--8Y8opK94sIohP1EuQY44xnX_IQJao.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\jEAORzQP-DOEHmcMTynjDEoU3Z4ZQPQu_Ggbs7UxMFM.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\mL4hrH_wLPmIfReGpVo3kG2LLE9MYYGcpzAYINCRZ1Y.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\n7M5UxrHaceMDtM-NQWOnmP9Kc79Cbq-w6NNJ-19Fq4.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\omzZZxxhSjs3z19oC6njK94u41bvmhjTXt_dj-SECWo.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\pG1be-SH2w_9uNEF3e5v8GYa30bNRzzlgzqwA-5mYxg.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\qQV-HoX0xIcuQprqYtKCxikDgzfYUaNnb0zOMzWg8V4.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\u_y6KhSam0kU5gWmEyeGDKDQWvj9SQjVEN9GqjgNm5g.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\v63x5svN19JpqF8wJfzTD79qvLTOYPtKuFR9isYbHaY.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\vKSZugGGWqV9RGGlwoIwPnZ2KJ74kw2z0sn9CeZwRXY.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\wkzGWjtpQvPvNuVXMjCr064IE67tJfHkL_vDWagf-Lk.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\cache\assets\development\sprockets\v3.0\y9aAao2wBI3cHgJhLjR7ofz9VsFQR0SEyS73IAjHjmE.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-medicinei\tmp\pids\server.pid" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-medicinei/Istoria medicinei.doc" afterPath="$PROJECT_DIR$/istoria-medicinei/Istoria medicinei.doc" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\istoria-tenisului\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\css\coin-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\content_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\fbg_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\gal6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\li.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\main_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\menu_a.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\menu_split.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\readmore.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\search.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\search_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\submit.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\ta-mark.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\images\userpic.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\js\coin-slider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\js\cufon-aller-700.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\js\cufon-yui.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\js\jquery-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\js\script.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\i_solution_template_2085\support.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\css\coda-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\gallery\image_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\myspace.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\onebit_08.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\onebit_11.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\onebit_12.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\onebit_17.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\onebit_21.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\scroll_left.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\scroll_right.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\technorati.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_aboutus.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_aboutus_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_body.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_contact.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_contact_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_content.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_home.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_home_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_image_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_image_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_image_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_list.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_logo_PNG_source.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_menu_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_portfolio.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_portfolio_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_services.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_services_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\templatemo_social_box.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\images\twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\coda-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\jquery-1.2.6.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\jquery.localscroll-1.2.5.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\jquery.scrollTo-1.3.3.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\js\jquery.serialScroll-1.2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\templates\mini_social_781\templatemo_style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\Aviatie=Pasiune!.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\blog.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\css\coin-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\content_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\fbg_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\gal6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\li.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\main_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\menu.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\menu_a.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\menu_split.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\readmore.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\search.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\search_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\slide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\slide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\slide3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\submit.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\ta-mark.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\images\userpic.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\js\coin-slider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\js\cufon-aller-700.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\js\cufon-yui.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\js\jquery-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\js\script.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\atestate\test\support.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-tenisului/Istoria tenisului.doc" afterPath="$PROJECT_DIR$/istoria-tenisului/Istoria tenisului.doc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/Mancare sanatoasa.doc" afterPath="$PROJECT_DIR$/mancare-sanatoasa/Mancare sanatoasa.doc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atestate.iws" />
@@ -113,122 +156,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="acasa.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
+      <file leaf-file-name="aviatie_acasa.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="731">
-              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="date-importante.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/date-importante.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2312">
-              <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="despre.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="969">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.9414802" vertical-offset="99" max-vertical-offset="748">
+              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="medicina-in-prezent.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.23077" vertical-offset="367" max-vertical-offset="3230">
-              <caret line="51" column="12" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="victor-babes.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/victor-babes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44894367" vertical-offset="255" max-vertical-offset="1377">
-              <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="89" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="istorie.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="91.26923" vertical-offset="2458" max-vertical-offset="3026">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -247,23 +181,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap-theme.min.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/css/farm.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/partials/legende.html" />
-        <option value="$PROJECT_DIR$/Mancare sanatoasa/mancare-sanatoasa/partials/specialitatea-casei.html" />
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/index.html" />
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/specialitatea-casei.html" />
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/despre.html" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/istoria-tenisului/index.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/acasa.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/date-importante.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/istorie.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/victor-babes.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/medicina-in-prezent.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/partials/contact.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/js/route.js" />
         <option value="$PROJECT_DIR$/istoria-medicinei/index.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/js/database.js" />
@@ -291,6 +208,30 @@
         <option value="$PROJECT_DIR$/istoria-medicinei/victor-babes.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/istorie.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/despre.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/index.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/Aviatie=Pasiune!.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/istoria_aviatiei.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/contact.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/viata_de_pilot.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/cat_costa_sa_devii_pilot_in_romania.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/cum_pot_deveni_pilot.html" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/css/coin-slider.css" />
+        <option value="$PROJECT_DIR$/Aviatie=Pasiune!/css/style.css" />
+        <option value="$PROJECT_DIR$/aviatie-pasiune/cum_pot_deveni_pilot.html" />
+        <option value="$PROJECT_DIR$/aviatie-pasiune/css/style.css" />
+        <option value="$PROJECT_DIR$/offices/index.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/acasa.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/style.css" />
+        <option value="$PROJECT_DIR$/2064_slidit/css/slimbox2.css" />
+        <option value="$PROJECT_DIR$/2064_slidit/css/ddsmoothmenu.css" />
+        <option value="$PROJECT_DIR$/2064_slidit/index.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/contact.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html" />
       </list>
     </option>
   </component>
@@ -355,7 +296,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="istoria-medicinei" />
+              <option name="myItemId" value="istoria-aviatiei" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,28 +311,28 @@
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.acasa.html (1)">
-    <configuration default="false" name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/Aviatie=Pasiune!/index.html">
+  <component name="RunManager" selected="JavaScript Debug.aviatie_acasa.html">
+    <configuration default="false" name="Aviatie=Pasiune!.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/Aviatie=Pasiune!/Aviatie=Pasiune!.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Aviatie=Pasiune!.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/test/Aviatie=Pasiune!.html">
+    <configuration default="false" name="Aviatie=Pasiune!.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/aviatie-pasiune/Aviatie=Pasiune!.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/_medicina/index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/offices/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/_medicina/acasa.html">
+    <configuration default="false" name="aviatie_acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-aviatiei/aviatie_acasa.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="acasa.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-medicinei/acasa.html">
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/2064_slidit/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -410,9 +351,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -421,20 +359,23 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.aviatie_acasa.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (4)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (3)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aviatie_acasa.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.Aviatie=Pasiune!.html" />
       </list>
     </recent_temporary>
   </component>
@@ -469,11 +410,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -497,10 +438,112 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1547">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="731">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/date-importante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="2312">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="969">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="367" max-vertical-offset="3230">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/victor-babes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2458" max-vertical-offset="3026">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -539,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79814816" vertical-offset="28" max-vertical-offset="1428">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="17747" max-vertical-offset="112030">
@@ -568,164 +604,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/i_solution_template_2085/support.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35915494" vertical-offset="306" max-vertical-offset="2482">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/i_solution_template_2085/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.47887325" vertical-offset="306" max-vertical-offset="2618">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/support.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29549903" vertical-offset="376" max-vertical-offset="2482">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33268103" vertical-offset="340" max-vertical-offset="2754">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39921722" vertical-offset="51" max-vertical-offset="3128">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2570423" vertical-offset="0" max-vertical-offset="1853">
-          <caret line="42" column="13" selection-start-line="39" selection-start-column="10" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923" vertical-offset="612" max-vertical-offset="1547">
-          <caret line="56" column="28" selection-start-line="55" selection-start-column="23" selection-end-line="57" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Aviatie=Pasiune!.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="255" max-vertical-offset="2618">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-medicinei/templatemo_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.72817135" vertical-offset="612" max-vertical-offset="5202">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="731">
-          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-medicinei/date-importante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2312">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="2312">
           <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="91.26923" vertical-offset="2458" max-vertical-offset="3026">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.56110156" vertical-offset="388" max-vertical-offset="969">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.23077" vertical-offset="367" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="0.8802817" vertical-offset="367" max-vertical-offset="3230">
           <caret line="51" column="12" selection-start-line="51" selection-start-column="0" selection-end-line="60" selection-end-column="13" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-medicinei/despre.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.461538" vertical-offset="0" max-vertical-offset="969">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#0;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#3;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#4;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#5;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#6;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#7;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#8;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#10;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#12;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#13;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#2;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#3;n#li#14;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -735,8 +689,150 @@
         <state vertical-scroll-proportion="0.44894367" vertical-offset="255" max-vertical-offset="1377">
           <caret line="30" column="77" selection-start-line="30" selection-start-column="77" selection-end-line="30" selection-end-column="89" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/istorie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.177817" vertical-offset="2458" max-vertical-offset="3026">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5851979" vertical-offset="357" max-vertical-offset="1275">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="102" max-vertical-offset="731">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/istoria-tenisului.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5387324" vertical-offset="459" max-vertical-offset="1547">
+          <caret line="45" column="82" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-tenisului/partials/legende.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-187.60269" vertical-offset="111436" max-vertical-offset="112030">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6584" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72817135" vertical-offset="0" max-vertical-offset="5202">
+          <caret line="26" column="11" selection-start-line="25" selection-start-column="0" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4190141" vertical-offset="663" max-vertical-offset="1309">
+          <caret line="53" column="174" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="174" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47611204" vertical-offset="0" max-vertical-offset="8024">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9390681" vertical-offset="122" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="99" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="99" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="99" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.919105" vertical-offset="112" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="99" max-vertical-offset="748">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

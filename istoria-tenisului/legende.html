@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="farmApp" ng-controller="mainControl" ng-init="Init();">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Istoria tenisului</title>
+    <link rel="shortcut icon" href="img/ico.png" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/tenis.css" rel="stylesheet" />
+    <header>
+        <img alt="Brand" src="img/banner.jpg" style="width:1400px; height: 200px" />
+    </header>
+
+
+
+</head>
+<body>
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+
+<!--<h1>Hello, world!</h1>-->
+<img ng-src="img/banner.jpg" style="width:100%;height:auto; overflow:hidden;" ng-if="current_page()!='acasa' && current_page()!=''" />
+
+<nav class="navbar navbar-default">
+    <div class="container container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="acasa.html">
+                <img alt="Brand" src="img/ico.png" style="height:25px;" />
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+
+
+                <li ng-class="{active: current_page()=='istorie'}">
+                    <a href="istorie.html">Istorie</a>
+                </li>
+
+                <li ng-class="{active: current_page()==nastase'}">
+                    <a href="nastase.html">Ilie Năstase</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='legende'}">
+                    <a href="legende.html">Legende</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='clasamente'}">
+                    <a href="clasamente.html">Clasamente</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='contact'}">
+                    <a href="contact.html">Contact</a>
+                </li>
+
+            </ul>
+
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+
+<div class="container">
+    <div class="page-header">
+        <h1 class="text-center">Legende</h1>
+    </div>
+
+
+    <ul>
+        <li>
+            <h2>Roger Federer</h2>
+            <img src="img/tmp/federer.jpg" style="width:500px;height:auto; overflow:hidden;"  /><br>
+
+            <p>Roger Federer (n. 8 august 1981) este jucător elvețian de tenis de câmp, care a deținut locul 1 în clasamentul ATP timp de 302 săptămâni (record).</p>
+            <p>În prezent este clasat pe locul 2 ATP. Este deținător al recordului pentru cele mai multe victorii în turneele de Mare șlem, cu 17 astfel de succese, și în Turneul Campionilor, cu șase trofee.</p>
+            <p>A fost pentru mai mult de cinci ani lider al clasamentului mondial al tenismenilor profesioniști.</p>
+
+        </li>
+
+        <li>
+            <h2>Andre Kirk Agassi</h2>
+            <img src="img/tmp/agassi.jpg" style="width:500px;height:auto; overflow:hidden;"  /><br>
+            <p>Andre Kirk Agassi (n. 29 aprilie 1970, Las Vegas, Nevada) este un fost lider mondial în tenisul profesionist, care a câștigat în carieră opt turnee de Mare Șlem și o medalie olimpică de aur, în 1996, la Atlanta.</p>
+            <p>Este considerat printre cei mai buni jucători care au practicat vreodată tenisul și cel mai bun jucător la returul de serviciu din istoria tenisului.</p>
+            <p>A devenit celebru pentru atitudinea și stilul ieșite din comun, pe care le-a afișat în carieră, Agassi fiind deseori considerat cel mai carismatic jucător din istorie și direct răspunzător pentru creșterea popularității tenisului în anii 1990.</p>
+            <p>Este căsătorit cu multipla câștigătoare de turnee de Mare Șlem, fosta jucătoare Steffi Graf.
+        </li>
+
+        <li>
+            <h2>Pete Sampras</h2>
+            <img src="img/tmp/sampras.jpg" style="width:500px;height:auto; overflow:hidden;"  /><br>
+
+            <p>Peter „Pete” Sampras (n. 12 august 1971, Washington, DC, Statele Unite ale Americii) este un jucător de tenis american de origine greacă.</p>
+            <p>A activat între anii 1988 și 2002, câștigând de paisprezece ori Marele Șlem la categoria simplu bărbați. S-a menținut timp de șase ani în poziția întâi a clasamentelor mondiale ale ATP.</p>
+            <p>Este recunoscut ca unul dintre cei mai talentați tenismeni din ultimele patru decenii.</p>
+        </li>
+
+        <li>
+            <h2>Steffi Graf</h2>
+            <img src="img/tmp/steffi.jpg" style="width:500px;height:auto; overflow:hidden;"  /><br>
+            <p>Stefanie Maria Graf (n. 14 iunie 1969, Mannheim) este o fostă jucătoare germană profesionistă de tenis.</p>
+            <p>Ea a câștigat de 22 de ori marile turnee internaționale de tenis „Grand Slam” care cuprind „Australian Open”, „French Open”, „Wimbledon” și „US Open”. Timp de 377 de săptămâni a fost jucătoarea numărul unu de tenis în lume.</p>
+            <p>În 1988 a câștigat toate cele 4 turnee Grand Slam cât și Jocurile Olimpice, fiind până în prezent singura care a câștigat așa-numitul „Golden Slam” (adică toate cele patru turnee „Grand Slam” și „Jocurile Olimpice” în același an).</p>
+        </li>
+
+
+
+        <li>
+            <h2>Martina Navratilova</h2>
+            <img src="img/tmp/martina.jpg" style="width:500px;height:auto; overflow:hidden;" /><br>
+            <p>Martina Navratilova (in ceha: Martina Navrátilová) (n. 18 octombrie 1956 în Praga, Cehoslovacia) este o fostă jucătoare de tenis, fostă numărul 1 mondial.</p>
+            <p>Este considerată una dintre cele mai bune jucătoare de tenis din toate timpurile.</p>
+
+        </li>
+
+
+    </ul>
+
+</div>
+</body>
+</html>
+

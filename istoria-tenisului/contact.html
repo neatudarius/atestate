@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="farmApp" ng-controller="mainControl" ng-init="Init();">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Istoria tenisului</title>
+    <link rel="shortcut icon" href="img/ico.png" />
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/tenis.css" rel="stylesheet" />
+    <header>
+        <img alt="Brand" src="img/banner.jpg" style="width:1400px; height: 200px" />
+    </header>
+
+
+
+</head>
+<body>
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+
+<!--<h1>Hello, world!</h1>-->
+<img ng-src="img/banner.jpg" style="width:100%;height:auto; overflow:hidden;" ng-if="current_page()!='acasa' && current_page()!=''" />
+
+<nav class="navbar navbar-default">
+    <div class="container container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="acasa.html">
+                <img alt="Brand" src="img/ico.png" style="height:25px;" />
+            </a>
+        </div>
+
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+                <li ng-class="{active: current_page()=='istorie'}">
+                    <a href="istorie.html">Istorie</a>
+                </li>
+
+                <li ng-class="{active: current_page()==nastase'}">
+                    <a href="nastase.html">Ilie Năstase</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='legende'}">
+                    <a href="legende.html">Legende</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='clasamente'}">
+                    <a href="clasamente.html">Clasamente</a>
+                </li>
+
+                <li ng-class="{active: current_page()=='contact'}">
+                    <a href="contact.html">Contact</a>
+                </li>
+
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+<div class="container">
+    <div class="page-header">
+        <h1 class="text-center">Contact</h1>
+    </div>
+    <div class="row">
+        <div class="col-md-4 col-md-push-4" style="font-size:155%">
+		<dl class="dl-horizontal">
+			<dt>Prenume</dt>
+			<dd>Gabriela Miruna</dd>
+			<dt>Nume</dt>
+			<dd>Măndică</dd>
+			<dt>Nr. tel.</dt>
+			<dd>TO DO</dd>
+			<dt>E-mail</dt>
+            <dd>TO DO</dd>
+		</dl>
+
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
+

@@ -366,7 +366,7 @@ void ProblemSet()
 	printf("        Alege una din urmatoarele probleme!\n");
 	printf("        1 - AUSOARA - ONI 2013 TIMISOARA\n");
 	printf("        2 - PELUZA SUD - FMI NO STRESS 4\n");
-	printf("        3 - Trimite-l pe Gigel inapoi in Meniu!\n");
+	printf("        3 - Inapoi la meniu!\n");
 	Trademark();
 	int option;
 	do { cout << "option ="; cin >> option; } while (option<1 || option>3);
@@ -376,7 +376,7 @@ void ProblemSet()
 		break;
 	case 2: PeluzaSud();
 		break;
-	case 3: printf("I-ai taiat bucuria lui Gigel de a rezolva probleme!\n");
+	case 3: printf("M-am saturat de probleme!\n");
 		WhaitForSomePeriod(BeerBreak);
 		return;
 		break;
@@ -444,7 +444,7 @@ void Ausoara()
 	if (ReturnToMainWasPrompted())return;
 	Console::Clear();
 	Title("Ausoara\0");
-	string someString = "              Saracul Gigel vrea sa se angajeze.El a dat un interviu la Darius Corporation (TM) si a primit urmatoarea problema: dandu-se N siruri de numere sortate crescator sa se gaseasca cel mai lung subsir comun al acestor.\n             Rezolvati aceasta problema pe care Gigel a considerat-o destul de usoara. \n ";
+	string someString = "              Saracul Gigel vrea sa se angajeze.El a dat un interviu la Google si a primit urmatoarea problema: dandu-se N siruri de numere sortate crescator sa se gaseasca cel mai lung subsir comun al acestor.\n             Rezolvati aceasta problema pe care Gigel a considerat-o destul de usoara. \n ";
 	ShowSomeString(someString);
 	someString = "\n                    Se va introduce: pe prima linie numarul natural nenul N cu semnificatia din enunt. \n Se vor citi apoi cele N siruri de numere: linia i+1 reprezinta codificarea sirului i si va fi de formata din M+1 numere";
 	ShowSomeString(someString);
@@ -454,7 +454,7 @@ void Ausoara()
 	ShowSomeString(someString);
 	printf("\n\n\n");
 	printf("    Vreti sa verificati daca codul lui e bun? \n");
-	printf("1 - pentru a va demonstra ca Gigel nu a intrat pe pile la  Darius Corporation (TM)\n");
+	printf("1 - pentru a va demonstra ca Gigel nu a intrat pe pile la  Google\n");
 	printf("2 - daca sunteti convins ca Gigel a dat spaga si vreti sa va intoarceti in Meniu\n");
 	int option;
 	do { cout << "option ="; cin >> option; } while (option<1 || option>2);

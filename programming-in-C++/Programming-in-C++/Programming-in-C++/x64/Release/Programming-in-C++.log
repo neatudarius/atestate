@@ -1,0 +1,11 @@
+﻿  Programming-in-C++.cpp
+Programming-in-C++.cpp(154): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Programming-in-C++.cpp(179): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(180): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(181): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(182): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(481): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Programming-in-C++.cpp(686): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Programming-in-C++.cpp(694): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Programming-in-C++.cpp(703): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Programming-in-C++.vcxproj -> D:\GitHub\atestate\programming-in-C++\Programming-in-C++\x64\Release\Programming-in-C++.exe

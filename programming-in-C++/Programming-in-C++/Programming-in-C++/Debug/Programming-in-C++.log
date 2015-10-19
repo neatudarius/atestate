@@ -1,0 +1,8 @@
+﻿  Programming-in-C++.cpp
+Programming-in-C++.cpp(170): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(171): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(172): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(173): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+Programming-in-C++.cpp(559): warning C4018: '<': signed/unsigned mismatch
+Programming-in-C++.cpp(677): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Programming-in-C++.vcxproj -> D:\GitHub\atestate\programming-in-C++\Programming-in-C++\Debug\Programming-in-C++.exe

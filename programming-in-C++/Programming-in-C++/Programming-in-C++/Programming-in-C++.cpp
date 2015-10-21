@@ -698,7 +698,7 @@ void Title(char* title)
 
 void Trademark()
 {
-	char tradeMark[100] = "By Roxana Florentina Soare\0";
+	char tradeMark[100] = "Roxana Florentina Soare\0";
 	printf("\n");
 	for (int i = strlen(tradeMark) + 5; i < ScreenBuffer; i++)
 		printf(" ");

@@ -130,7 +130,7 @@ Database.factory('Database', function() {
             "phone_number": "0764527716",
             "availability": "24/7",
             "availability_big": "24 de ore pe zi, 7 zile pe săptămână",
-            "email" : "stefy_alina1997@yahoo.com"
+            "email" : " n"
         };
 
         return contact_info;

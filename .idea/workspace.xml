@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4fe2401-4a1e-4a72-bc53-17159e200801" name="Default" comment="" />
+    <list default="true" id="e4fe2401-4a1e-4a72-bc53-17159e200801" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\css\bootstrap.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" afterPath="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css" afterPath="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html" afterPath="$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html" afterPath="$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/css/farm.css" afterPath="$PROJECT_DIR$/mancare-sanatoasa/css/farm.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" afterPath="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html" afterPath="$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="atestate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,7 +39,70 @@
     <favorites_list name="atestate" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="mancare-sanatoasa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="produse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9615384" vertical-offset="663" max-vertical-offset="1309">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="farm.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/farm.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-theme.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22895622" vertical-offset="0" max-vertical-offset="594">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="2635">
+              <caret line="132" column="48" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="510">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -37,18 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/Aviatie=Pasiune!.html" />
-        <option value="$PROJECT_DIR$/test/about.html" />
-        <option value="$PROJECT_DIR$/_medicina/templatemo_style.css" />
-        <option value="$PROJECT_DIR$/_medicina/profile.html" />
-        <option value="$PROJECT_DIR$/_medicina/index.html" />
-        <option value="$PROJECT_DIR$/_medicina/acasa.html" />
-        <option value="$PROJECT_DIR$/_medicina/date-importante.html" />
-        <option value="$PROJECT_DIR$/_medicina/istorie.html" />
-        <option value="$PROJECT_DIR$/_medicina/medicina-in-prezent.html" />
-        <option value="$PROJECT_DIR$/_medicina/victor-babes.html" />
-        <option value="$PROJECT_DIR$/_medicina/despre.html" />
-        <option value="$PROJECT_DIR$/istoria-medicinei/templatemo_style.css" />
         <option value="$PROJECT_DIR$/istoria-medicinei/acasa.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/date-importante.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/medicina-in-prezent.html" />
@@ -56,7 +122,6 @@
         <option value="$PROJECT_DIR$/istoria-medicinei/istorie.html" />
         <option value="$PROJECT_DIR$/istoria-medicinei/despre.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/index.html" />
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
         <option value="$PROJECT_DIR$/Aviatie=Pasiune!/Aviatie=Pasiune!.html" />
         <option value="$PROJECT_DIR$/Aviatie=Pasiune!/istoria_aviatiei.html" />
         <option value="$PROJECT_DIR$/Aviatie=Pasiune!/contact.html" />
@@ -72,11 +137,7 @@
         <option value="$PROJECT_DIR$/2064_slidit/css/slimbox2.css" />
         <option value="$PROJECT_DIR$/2064_slidit/css/ddsmoothmenu.css" />
         <option value="$PROJECT_DIR$/2064_slidit/index.html" />
-        <option value="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" />
-        <option value="$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html" />
         <option value="$PROJECT_DIR$/istoria-aviatiei/contact.html" />
-        <option value="$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html" />
-        <option value="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" />
         <option value="$PROJECT_DIR$/istoria-tenisului/js/route.js" />
         <option value="$PROJECT_DIR$/istoria-tenisului/istoria-tenisului.html" />
         <option value="$PROJECT_DIR$/istoria-tenisului/acasa.html" />
@@ -87,7 +148,24 @@
         <option value="$PROJECT_DIR$/istoria-tenisului/legende.html" />
         <option value="$PROJECT_DIR$/istoria-tenisului/istorie.html" />
         <option value="$PROJECT_DIR$/istoria-aviatiei/style.css" />
+        <option value="$PROJECT_DIR$/metamorph_glowing/index.html" />
+        <option value="$PROJECT_DIR$/metamorph_glowing/C.html" />
+        <option value="$PROJECT_DIR$/metamorph_glowing/C++.html" />
+        <option value="$PROJECT_DIR$/metamorph_glowing/limbaje-de-programare.html" />
+        <option value="$PROJECT_DIR$/metamorph_glowing/styles.css" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html" />
         <option value="$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html" />
+        <option value="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/css/farm.css" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.css" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/js/database.js" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html" />
+        <option value="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css" />
       </list>
     </option>
   </component>
@@ -124,7 +202,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -143,8 +220,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mancare-sanatoasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mancare-sanatoasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mancare-sanatoasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atestate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mancare-sanatoasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,28 +299,28 @@
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.aviatie_acasa.html">
+  <component name="RunManager" selected="JavaScript Debug.mancare-sanatoasa.html">
     <configuration default="false" name="aviatie_acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-aviatiei/aviatie_acasa.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="istoria-tenisului.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-tenisului/istoria-tenisului.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-tenisului/acasa.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="acasa.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/istoria-medicinei/acasa.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="mancare-sanatoasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/mancare-sanatoasa/mancare-sanatoasa.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/metamorph_glowing/metamorph_glowing/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/metamorph_glowing/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="limbaje-de-programare.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/metamorph_glowing/limbaje-de-programare.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -193,6 +339,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -201,23 +350,20 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aviatie_acasa.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.istoria-tenisului.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.limbaje-de-programare.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aviatie_acasa.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.istoria-tenisului.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.limbaje-de-programare.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.aviatie_acasa.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +382,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -244,7 +390,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -252,11 +398,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -280,69 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/istorie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="2193">
-          <caret line="83" column="265" selection-start-line="83" selection-start-column="265" selection-end-line="83" selection-end-column="265" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/legende.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1030" max-vertical-offset="2414">
-          <caret line="89" column="15" selection-start-line="89" selection-start-column="15" selection-end-line="89" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/nastase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1223" max-vertical-offset="1904">
-          <caret line="99" column="172" selection-start-line="99" selection-start-column="172" selection-end-line="99" selection-end-column="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1051" max-vertical-offset="1734">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/clasamente.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="932" max-vertical-offset="1530">
-          <caret line="76" column="64" selection-start-line="76" selection-start-column="64" selection-end-line="76" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/acasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/istorie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1411" max-vertical-offset="2193">
-          <caret line="83" column="265" selection-start-line="83" selection-start-column="265" selection-end-line="83" selection-end-column="265" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/legende.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1030" max-vertical-offset="2414">
-          <caret line="89" column="15" selection-start-line="89" selection-start-column="15" selection-end-line="89" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-tenisului/nastase.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1223" max-vertical-offset="1904">
-          <caret line="99" column="172" selection-start-line="99" selection-start-column="172" selection-end-line="99" selection-end-column="172" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-tenisului/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1051" max-vertical-offset="1734">
@@ -361,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33278418" vertical-offset="6071" max-vertical-offset="6817">
           <caret line="369" column="16" selection-start-line="369" selection-start-column="16" selection-end-line="369" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,27 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-187.60269" vertical-offset="111436" max-vertical-offset="112030">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6584" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4190141" vertical-offset="663" max-vertical-offset="1309">
-          <caret line="53" column="174" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="174" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-medicinei/templatemo_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22405271" vertical-offset="0" max-vertical-offset="5202">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-tenisului/css/tenis.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="668" max-vertical-offset="1275">
@@ -548,13 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="694" max-vertical-offset="1275">
-          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-medicinei/acasa.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11971831" vertical-offset="102" max-vertical-offset="731">
@@ -583,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1577061" vertical-offset="0" max-vertical-offset="748">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/istoria-aviatiei/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8244406" vertical-offset="167" max-vertical-offset="748">
@@ -597,31 +643,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8244406" vertical-offset="167" max-vertical-offset="748">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2685026" vertical-offset="167" max-vertical-offset="748">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.633803" vertical-offset="0" max-vertical-offset="1598">
-          <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16474465" vertical-offset="1379" max-vertical-offset="4301">
           <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metamorph_glowing/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06589786" vertical-offset="3666" max-vertical-offset="4641">
+          <caret line="218" column="1" selection-start-line="218" selection-start-column="1" selection-end-line="218" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metamorph_glowing/C.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1530">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metamorph_glowing/C++.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1530">
+          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
           <folding />
         </state>
       </provider>
@@ -630,13 +678,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47611204" vertical-offset="0" max-vertical-offset="8024">
           <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cat_costa_sa_devii_pilot_in_romania.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7306338" vertical-offset="724" max-vertical-offset="1326">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#10;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#11;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#12;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#13;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59859157" vertical-offset="187" max-vertical-offset="7735">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6866197" vertical-offset="375" max-vertical-offset="1649">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#li#0;n#ul#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-aviatiei/cum_pot_deveni_pilot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44366196" vertical-offset="666" max-vertical-offset="1853">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metamorph_glowing/limbaje-de-programare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.089788735" vertical-offset="306" max-vertical-offset="1547">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32185885" vertical-offset="0" max-vertical-offset="986">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.5369718" vertical-offset="477" max-vertical-offset="1071">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#1;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#2;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#10;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#11;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#12;n#div#1;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/istoria-medicinei/templatemo_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22405271" vertical-offset="0" max-vertical-offset="5202">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.714286" vertical-offset="3739" max-vertical-offset="112081">
+          <caret line="231" column="0" selection-start-line="231" selection-start-column="0" selection-end-line="233" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2003367" vertical-offset="0" max-vertical-offset="8228">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="510">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/js/database.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="2635">
+          <caret line="132" column="48" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/produse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384" vertical-offset="663" max-vertical-offset="1309">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/farm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22895622" vertical-offset="0" max-vertical-offset="594">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>

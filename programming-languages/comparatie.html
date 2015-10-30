@@ -1,0 +1,271 @@
+<!DOCTYPE html >
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>TO DO</title>
+
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <link href="styles.css" rel="stylesheet" type="text/css" media="screen"/>
+</head>
+<body>
+<div id="content">
+<div id="header">
+    <div id="menu" align="right">
+        <ul>
+            <li id="button0"><a href="index.html">Acasă</a></li>
+            <li id="button1"><a href="limbaje-de-programare.html" title="">Limbaje de programe</a></li>
+            <li id="button2"><a href="C.html" title="">C</a></li>
+            <li id="button3"><a href="C++.html" title="">C++</a></li>
+            <li id="button4"><a href="pascal.html" title="">Pascal</a></li>
+            <li id="button5"><a href="comparatie.html" title="">Comparație</a></li>
+            <!--<li id="button6"><a href="contact.html" title="">Contact</a></li>-->
+        </ul>
+    </div>
+</div>
+<div id="main">
+<div id="right">
+
+    <h4>Comparație</h4>
+
+    <p>Limbajul de programare C++ a fost inițial derivat din C. Totuși, nu absolut orice program scris în C
+        este valid C++. Deoarece C și C++ au evoluat independent, au apărut, din nefericire, o serie de
+        incompatibilități între cele două limbaje de programare.</p>
+    <img src="images/comparison.jpg" width="200" alt="" title="" style=" float:left; padding-right: 10px;"/>
+
+    <p> Cea mai amplă revizie a limbajui C, C99, a creat un număr suplimentar de conflicte. Diferențele fac
+        să fie greu de scris programe și biblioteci care să fie compilate și să ruleze corect în calitate de
+        cod C sau C++, și produce confuzii celor care programează în ambele limbaje. Diferențele fac ca
+        fiecare din cele două limbaje de programare să împrumute din caracteristicile celuilalt limbaj de
+        programare.</p>
+
+    <p>Bjarne Stroustrup, creatorul limbajului C++, a sugerat de nenumărate ori [2] să se reducă
+        incompatibilitățile pe cât de mult posibil pentru a maximiza interoperabilitatea dintre cele două
+        limbaje de programare. Unii au argumentat că C și C++ sunt două limbaje de programare distincte,
+        compatibilitatea dintre ele fiind utilă dar nu vitală; potrivit acestei opinii, eforturile de a reduce
+        incompatibilitatea nu trebuie să reducă eforturile de a aduce elemente noi în mod independent celor două
+        limbaje de programare.</p>
+
+    <p>Cele mai importante diferențe sunt:</p>
+    <ul>
+        <li><p>inline —funcțiile inline apar în secțiunea de declarare a variabilelor globale în C++, iar in C
+            acestea apar în așa zisele „fișiere statice“.</p></li>
+        <li>
+            <p>Cuvântul cheie bool are în C99 propriul său header,
+                <stdbool.h>. În variantele anterioare de C tipul de date boolean nu era definit, în schimb erau
+                    folosite o serie de metode (incompatibile) pentru a simula acest tip de date.
+            </p>
+        </li>
+        <li><p>Constantele caracter (cuprinse între apostrofuri) au dimensiunea unui int în C și char în C++. Cu
+            alte cuvinte, în C, sizeof('a') == sizeof(int); în C++, sizeof('a') == sizeof(char). Chiar și în
+            aceste condiții, valoarea acestui tip de constante nu va depăși valoarea maximă ce poată fi păstrată
+            de char, deci o conversie de genul (char)'a' este sigură.</p></li>
+        <li><p>Cuvinte cheie suplimentare au fost introduse în C++, deci acestea nu pot fi folosite ca
+            identificatori așa cum ar putea fi folosite în C. (de exemplu, code>try, catch, template, new,
+            delete, ...)</p></li>
+
+    </ul>
+    <p>În C++, compilatorul creează automat o „etichetă“ pentru orice structură (struct), uniune (union) sau
+        enumerație (enum), astfel încât struct S {}; în C++ este echivalent cu typedef struct S {} S; în C.</p>
+
+    <p>C99 a adoptat unele funcționalități ce au apărut inițial în C++. Printre acestea se enumeră:</p>
+    <ul>
+        <li><p>Declararea obligatorie a prototipului funcțiilor</p></li>
+        <li><p>Cuvântul cheie inline</p></li>
+        <li><p>Eliminarea variabilei implicite int ca valoare de întoarcere.</p></li>
+    </ul>
+
+    <br><br><br><br>
+
+    <table>
+        <tr>
+            <td>Sintaxa Pascal</td>
+            <td> Sintaxa C și C++</td>
+            <td>Explicații</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> begin</td>
+            <td>{</td>
+            <td>Început bloc de instrucțiuni</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> end. / end</td>
+            <td> }</td>
+            <td>Sfârșit bloc de instrucțiuni</td>
+        </tr>
+        <tr></tr>
+
+        <tr>
+            <td> if (
+                <cond>) then
+            </td>
+            <td>if(
+                <cond>)
+            </td>
+            <td>Instrucțiune condițională:
+                <cond> adevarată determină execuția codului după if (
+                    <cond>)
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> while(
+                <cond>) do
+            </td>
+            <td> while(
+                <cond>)
+            </td>
+            <td>Repetă cat timp
+                <cond> adevărat
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> a<> b</td>
+            <td>a!=b</td>
+            <td>Valoarea variabilei a e diferită de valoarea variabilei b</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> for i:=1 to n do</td>
+            <td> for(i=1;i<=n;i++)</td>
+            <td> Buclă (ciclu) for: se va repeta până la verificarea condiției de ieșire din ciclu (valoarea
+                variabilei i egale cu cea a lui n)
+            </td>
+        <tr></tr>
+        </tr>
+        <tr>
+            <td>i:=a;</td>
+            <td>i=a;</td>
+            <td>Atribuire: în locația de memorie corespunzătoare variabilei i se copiază valoarea din locația lui a</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> i:=i+1 sau inc(x);</td>
+            <td> i++;</td>
+            <td>Incrementare</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td>i:=i-1</td>
+            <td>i--;</td>
+            <td>Decrementare</td>
+        </tr>
+        <tr></tr>
+        <tr>
+            <td> var i: integer</td>
+            <td>int i;</td>
+            <td>Declarare variabilă (în C++ și C99 se poate declara oriunde în program/funcție)</td>
+        </tr>
+        <tr>
+        <tr></tr>
+        <td> if(a=b) then</td>
+        <td>if(a==b)</td>
+        <td>Dacă a egal cu b</td>
+        </tr>
+        <tr>
+            <td>read(var);</td>
+            <td> scanf("%s", &var);</td>
+            <td>Citire de la intrarea standard (de obicei tastatură)</td>
+        </tr>
+        <tr>
+            <td> write('text ', var);</td>
+            <td>printf("text %s", var);</td>
+            <td>Scriere la ieșirea standard (de obicei ecran)</td>
+        </tr>
+        <tr>
+            <td> writeln;</td>
+            <td> printf("\n");</td>
+            <td>Tipărește o linie nouă</td>
+        </tr>
+    </table>
+
+
+    <br><br><br><br>
+
+    <h1>Exemplu</h1>
+
+    <p>Un program care citește un număr întreg și îl afișează.</p>
+    <ul>
+        <li>
+            <p>Pascal:</p>
+            <img src="images/read1.jpg" width="650px" alt="" title=""
+                 style=" float:center;  padding-left:15px;"/>
+
+        </li>
+        <li>
+            <p>C:</p>
+            <img src="images/read2.jpg" width="650px" alt="" title=""
+                 style=" float:center;  padding-left:15px;"/></li>
+        <li>
+            <p>C++:</p>
+            <img src="images/read3.jpg" width="650px" alt="" title=""
+                 style=" float:center;  padding-left:15px;"/></li>
+    </ul>
+
+
+</div>
+
+
+<div id="left">
+    <h3>Vezi și ...</h3>
+
+    <div class="comnews">
+
+        <h2>Comparație</h2>
+
+        <p>Limbajul de programare C++ a fost inițial derivat din C. Totuși, nu absolut orice program scris în C
+            este valid C++. Deoarece C și C++ au evoluat independent, au apărut, din nefericire, o serie de
+            incompatibilități între cele două limbaje de programare.</p>
+        <img src="images/comparison.jpg" width="200" alt="" title="" style=" float:left; padding-right: 10px;"/>
+
+        <p> Cea mai amplă revizie a limbajui C, C99, a creat un număr suplimentar de conflicte. Diferențele fac
+            să fie greu de scris programe și biblioteci care să fie compilate și să ruleze corect în calitate de
+            cod C sau C++, și produce confuzii celor care programează în ambele limbaje. Diferențele fac ca
+            fiecare din cele două limbaje de programare să împrumute din caracteristicile celuilalt limbaj de
+            programare.</p>
+
+        <div class="read"><a href="comparatie.html">read more</a></div>
+
+    </div>
+
+
+    <div class="comnews">
+
+        <h2>Limbaje de programare de viitor</h2>
+
+        <p>Domeniul IT este unul foarte dinamic, in continua dezvoltare, care ofera numeroase oportunitati de
+            angajare. Pentru a veni in ajutorul tinerilor care isi doresc sa lucreze in domeniul IT, dar si a
+            specialistilor care sunt interesati de evolutia pietei, HiPo.ro a realizat o analiza a tendintelor
+            privind utilizarea diferitelor limbaje de programare.</p>
+        <img src="images/popularitatea_limbajelor_de_programare.jpg" width="200" alt="" title=""
+             style=" float:left; padding-right: 10px;"/>
+
+        <p>In prezent, cele mai populare 10 limbaje de programare sunt: Java, C, C++, PHP, C#, Objectiv C,
+            Visual Basic, Python, Perl si Java Script. In graficul de mai jos poti vedea detalii legate de
+            ponderea fiecarui limbaj de programare in ceea ce priveste popularitatea sa in randul specialistilor
+            din domeniul IT din intreaga lume, a locurilor de munca disponibile, precum si a ofertelor de
+            cursuri de specializare.</p>
+
+        <div class="read"><a href="limbaje-de-programare-de-viitor.html">read more</a></div>
+
+    </div>
+
+
+</div>
+
+<div style="clear:both;">
+</div>
+
+<!-- footer begins-->
+<div id="footer">
+    <p>Copyright 2015</p>
+
+    <p>Design by Soare Roxana Florentina</p>
+</div>
+<!-- footer ends-->
+
+</body>
+</html>

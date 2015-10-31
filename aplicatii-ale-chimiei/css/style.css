@@ -16,6 +16,7 @@ html {
 body {
     font: normal 80% Arial, Helvetica, sans-serif;
     color: #000;
+    background: transparent url(../images/background.jpg) repeat;
 }
 
 /* tell the browser to render HTML 5 elements as block */
@@ -105,7 +106,7 @@ ol li {
 
 #main {
     padding: 30px 0px;
-    background: transparent url(../images/background.jpg) no-repeat;
+    background: transparent url(../images/background.jpg) repeat;
 }
 
 header {

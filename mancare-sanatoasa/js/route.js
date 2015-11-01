@@ -24,8 +24,8 @@ farmApp.config( function( $routeProvider, $locationProvider ) {
         templateUrl: 'partials/specialitatea-casei.html'
     });
 
-    $routeProvider.when('/comenzi', {
-        templateUrl: 'partials/comenzi.html'
+    $routeProvider.when('/teleorman', {
+        templateUrl: 'partials/teleorman.html'
     });
 
     $routeProvider .otherwise({

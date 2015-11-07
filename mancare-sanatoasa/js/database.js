@@ -79,7 +79,7 @@ Database.factory('Database', function() {
                 {
                     "name": "Carne de porc(sferturi)",
                     "description": "Sfert anterior cu guşă. Se poate tăia și la comandă.",
-                    "image": "Sfert anterior cu gusă.jpg",
+                    "image": "Sfert anterior cu gusa.jpg",
                     "price" : 100
                 },
                 {

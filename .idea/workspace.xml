@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fe2401-4a1e-4a72-bc53-17159e200801" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\circulator.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\contact.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\inima1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\inima2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\ochiul.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\sis-nervos1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\sis-osos1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\sis-osos2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\sis-osos3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\anatomia-corpului-uman\imagini\sis-respirator1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\atestate\mancare-sanatoasa\partials\comenzi.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aplicatii-ale-chimiei/contact.html" afterPath="$PROJECT_DIR$/aplicatii-ale-chimiei/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/cordul.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/cordul.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/despre.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/despre.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/index.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" afterPath="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/ochiul.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/ochiul.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" afterPath="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-circulator.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-circulator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-nervos.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-nervos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-osos.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-osos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-respirator.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/sistemul-respirator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anatomia-corpului-uman/uitarea.html" afterPath="$PROJECT_DIR$/anatomia-corpului-uman/uitarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html" afterPath="$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atestate.iws" />
@@ -50,13 +28,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="teleorman.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/partials/teleorman.html">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming-languages/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11971831" vertical-offset="0" max-vertical-offset="568">
-              <caret line="4" column="449" selection-start-line="4" selection-start-column="449" selection-end-line="4" selection-end-column="449" />
+            <state vertical-scroll-proportion="0.8380282" vertical-offset="306" max-vertical-offset="2023">
+              <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="limbaje-de-programare.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming-languages/limbaje-de-programare.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.0" vertical-offset="3040" max-vertical-offset="3910">
+              <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="189" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/mancare-sanatoasa/css/farm.css" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.css" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/contact.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css" />
@@ -85,15 +85,8 @@
         <option value="$PROJECT_DIR$/istoria-aviatiei/aviatie_acasa.html" />
         <option value="$PROJECT_DIR$/istoria-aviatiei/viata_de_pilot.html" />
         <option value="$PROJECT_DIR$/istoria-aviatiei/istoria_aviatiei.html" />
-        <option value="$PROJECT_DIR$/programming-languages/index.html" />
         <option value="$PROJECT_DIR$/programming-languages/styles.css" />
-        <option value="$PROJECT_DIR$/programming-languages/limbaje-de-programare-de-viitor.html" />
-        <option value="$PROJECT_DIR$/programming-languages/limbaje-de-programare.html" />
-        <option value="$PROJECT_DIR$/programming-languages/C.html" />
-        <option value="$PROJECT_DIR$/programming-languages/C++.html" />
-        <option value="$PROJECT_DIR$/programming-languages/pascal.html" />
         <option value="$PROJECT_DIR$/programming-languages/diferente-C-C++-pascal.html" />
-        <option value="$PROJECT_DIR$/programming-languages/comparatie.html" />
         <option value="$PROJECT_DIR$/aplicatii-ale-chimiei/index.html" />
         <option value="$PROJECT_DIR$/aplicatii-ale-chimiei/acasa.html" />
         <option value="$PROJECT_DIR$/aplicatii-ale-chimiei/css/style.css" />
@@ -121,11 +114,19 @@
         <option value="$PROJECT_DIR$/bolile-inceputului-de-mileniu/obezitatea.html" />
         <option value="$PROJECT_DIR$/bolile-inceputului-de-mileniu/steatoza-hepatica.html" />
         <option value="$PROJECT_DIR$/bolile-inceputului-de-mileniu/cholest-bio.html" />
-        <option value="$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html" />
         <option value="$PROJECT_DIR$/aplicatii-ale-chimiei/contact.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/mancare-sanatoasa.html" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/js/route.js" />
         <option value="$PROJECT_DIR$/mancare-sanatoasa/partials/teleorman.html" />
+        <option value="$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html" />
+        <option value="$PROJECT_DIR$/programming-languages/index.html" />
+        <option value="$PROJECT_DIR$/programming-languages/pascal.html" />
+        <option value="$PROJECT_DIR$/programming-languages/limbaje-de-programare-de-viitor.html" />
+        <option value="$PROJECT_DIR$/programming-languages/limbaje-de-programare.html" />
+        <option value="$PROJECT_DIR$/programming-languages/comparatie.html" />
+        <option value="$PROJECT_DIR$/programming-languages/C.html" />
+        <option value="$PROJECT_DIR$/programming-languages/C++.html" />
+        <option value="$PROJECT_DIR$/programming-languages/contact.html" />
       </list>
     </option>
   </component>
@@ -162,7 +163,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,30 +191,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mancare-sanatoasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atestate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atestate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mancare-sanatoasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
+              <option name="myItemId" value="programming-languages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,17 +213,7 @@
       <recent name="D:\GitHub\atestate\bolile-inceputului-de-mileniu\imagini" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.mancare-sanatoasa.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/templates/AquaBusiness Free Website Template - Free-CSS.com/aquabusiness/index.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="acasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/anatomia-corpului-uman/acasa.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/bolile-inceputului-de-mileniu/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -252,6 +225,16 @@
       <method />
     </configuration>
     <configuration default="false" name="mancare-sanatoasa.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/mancare-sanatoasa/mancare-sanatoasa.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/programming-languages/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="contact.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/atestate/programming-languages/contact.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -270,6 +253,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -278,23 +264,26 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/atestate/templates/AquaBusiness Free Website Template - Free-CSS.com/aquabusiness/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.mancare-sanatoasa.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.acasa.html (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -329,11 +318,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -357,13 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/bootstrap-theme.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22895622" vertical-offset="0" max-vertical-offset="594">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mancare-sanatoasa/css/farm.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19604613" vertical-offset="0" max-vertical-offset="1258">
@@ -417,41 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="4624">
           <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/limbaje-de-programare-de-viitor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.4856631" vertical-offset="985" max-vertical-offset="2856">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/C.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.269231" vertical-offset="2496" max-vertical-offset="4097">
-          <caret line="161" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/pascal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82042253" vertical-offset="945" max-vertical-offset="2465">
-          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6883803" vertical-offset="816" max-vertical-offset="2618">
-          <caret line="71" column="115" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/comparatie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="68" max-vertical-offset="4709">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -522,13 +469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5041186" vertical-offset="0" max-vertical-offset="2465">
           <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Download/Chrome/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -609,20 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/C++.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56110156" vertical-offset="1221" max-vertical-offset="2941">
-          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-languages/limbaje-de-programare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71428573" vertical-offset="2424" max-vertical-offset="3791">
-          <caret line="167" column="118" selection-start-line="167" selection-start-column="60" selection-end-line="167" selection-end-column="118" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bolile-inceputului-de-mileniu/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7607573" vertical-offset="1377" max-vertical-offset="6545">
@@ -665,18 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88296044" vertical-offset="439" max-vertical-offset="1139">
-          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aplicatii-ale-chimiei/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.73666096" vertical-offset="490" max-vertical-offset="1343">
           <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35915494" vertical-offset="561" max-vertical-offset="1683">
           <caret line="45" column="154" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="154" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6079078" vertical-offset="90" max-vertical-offset="697">
           <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23407917" vertical-offset="714" max-vertical-offset="1309">
           <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,6 +623,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14629948" vertical-offset="0" max-vertical-offset="581">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bolile-inceputului-de-mileniu/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61962134" vertical-offset="490" max-vertical-offset="1105">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -717,7 +639,109 @@
         <state vertical-scroll-proportion="0.11971831" vertical-offset="0" max-vertical-offset="568">
           <caret line="4" column="449" selection-start-line="4" selection-start-column="449" selection-end-line="4" selection-end-column="449" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/pascal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9376147" vertical-offset="1699" max-vertical-offset="2618">
+          <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/limbaje-de-programare-de-viitor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="2054" max-vertical-offset="2992">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/comparatie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8192771" vertical-offset="3978" max-vertical-offset="4845">
+          <caret line="262" column="10" selection-start-line="262" selection-start-column="10" selection-end-line="262" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/C.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94014084" vertical-offset="3308" max-vertical-offset="4233">
+          <caret line="226" column="14" selection-start-line="226" selection-start-column="14" selection-end-line="226" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/C++.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9414802" vertical-offset="2156" max-vertical-offset="3077">
+          <caret line="159" column="14" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5" vertical-offset="1897" max-vertical-offset="2567">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="139" selection-end-column="18" />
+          <folding>
+            <element signature="tag#img#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#img#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#2;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#3;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#img#2;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#p#4;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/limbaje-de-programare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.0" vertical-offset="3040" max-vertical-offset="3910">
+          <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="189" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-languages/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8380282" vertical-offset="306" max-vertical-offset="2023">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#2;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#3;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#5;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#6;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
